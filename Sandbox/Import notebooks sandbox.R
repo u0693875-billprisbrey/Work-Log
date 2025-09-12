@@ -1,6 +1,6 @@
 # Import Notebooks Sandbox
 
-# PURPOSE:  Import and combine the Excel workbooks in my worklob folder.
+# PURPOSE:  Import and combine the Excel workbooks in my worklog folder.
 
 library(readxl)
 
@@ -37,6 +37,9 @@ names(log_data) <- basename(log_files)
 
 # Collapse into data frames
 murray <- lapply(log_data, function(x){do.call(rbind, x)})
+
+# do just the most recent week
+johnmeyer <- murray[[2]]
 
 # Collapse all of them into a data frame
 johnmeyer <- do.call(rbind, murray)
