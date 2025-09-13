@@ -1,0 +1,101 @@
+---
+title: "Blastula Trial One"
+author: "Bill Prisbrey"
+date: "2025-09-12"
+output: blastula::blastula_email
+---
+
+<body style="background-color:pink;">
+
+```{r include = FALSE}
+
+# This is an attempt to create a report that I can e-mail as a weekly log via blastula
+
+```
+
+
+```{r include = FALSE}
+
+knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE, error=FALSE, fig.height=9, fig.width=10)
+
+#library(here)
+library(lubridate)
+library(blastula)
+library(glue)
+library(kableExtra)
+
+```
+
+```{r}
+
+##########
+## LOAD ##
+##########
+
+log_path <- "C:/Users/u0693875/Documents/Project Management/Work log/Notepad logs/Weekly Logs"
+
+log_files <- list.files(path = log_path, pattern = "\\.txt$", full.names = TRUE) |>
+  (\(x){x[!grepl("^~\\$", basename(x))] })()
+
+log_data <- lapply(log_files, function(f) { 
+  
+  read.table(f, 
+             header = TRUE,
+             sep = "|",
+             stringsAsFactors = FALSE,
+             strip.white = TRUE,
+             na.strings = c("", " "),
+             fill = TRUE)
+  
+  })
+
+names(log_data) <- basename(log_files)
+
+##########
+## PREP ##
+##########
+
+log_data <- lapply(log_data, function(df) {
+  
+  # Replace empty strings and whitespace-only strings with NA
+  df[df == "" | grepl("^\\s*$", df)] <- NA
+  
+  # convert to date
+  df$DATE <- as.Date(df$DATE, format = "%m/%d/%Y")  
+  
+  df$START_dt <- parse_date_time(paste(df$DATE, df$START),
+                                 orders = "ymd I:M p")
+  df$STOP_dt  <- parse_date_time(paste(df$DATE, df$STOP),
+                                 orders = "ymd I:M p")
+  # calculate time difference
+  df$diff <- as.numeric(difftime(df$STOP_dt, df$START_dt, units =  "mins"))/60
+  
+  df
+  
+})
+
+
+```
+
+### *Hours spent:*
+
+```{r}
+
+aggregate(diff ~ CATEGORY, data = log_data[[1]], sum, na.rm=TRUE) |>
+  kbl()
+
+```
+
+## ***Assignments:***
+
+* Start on new project, “Recommend Math Placement” (IN PROGRESS)
+*	Send Luis all of my white papers (DONE)
+*	Send Luis a summary of my work on student course feedback
+
+
+#### **To discuss:**    
+
+* Why does it only rain on the plain in Spain?    
+* Will Charlie ever kick the football?    
+* Were they all just dead the whole time in purgatory?    
+
