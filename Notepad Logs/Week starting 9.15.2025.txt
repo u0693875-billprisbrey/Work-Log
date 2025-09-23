@@ -1,0 +1,44 @@
+ DATE    | START   | STOP    | CATEGORY                | ACTIVITIES                    | NOTES
+9/15/2025|9:00 AM  |9:45 AM  | Job Mngt | Reading emails; planning; locating J drive|
+9/15/2025|9:45 AM  |11:30 AM | Describe UAIR data | Instructor variation graphic |
+9/15/2025|11:30 AM |12:45 PM| Break||
+9/15/2025|12:45 PM |2:00 PM |Predict Math Success|Porting to Predict Math Success; exploring graphical representations|
+9/15/2025|2:00 PM  |2:30 PM |Break||
+9/15/2025|2:30 PM  |3:15 PM |Predict Math Success|forest plot graphic|
+9/15/2025|3:15 PM  |4:15 PM |Break||
+9/15/2025|4:15 PM  |4:45 PM |Predict Math Success|combining forest plot graphic and other|
+9/15/2025|4:45 PM  |5:45 PM |Break||
+9/15/2025|5:45 PM  |6:15 PM |Predict Math Success|editing report; adding table|
+9/15/2025|6:15 PM  |7:00 PM |Break||
+9/15/2025|7:00 PM  |8:30 PM |Predict Math Success|converting table into a heatmap; pushing to Git (very slow!)|
+9/16/2025|9:15 AM  |9:30 AM |Job Mngt|Reading emails; daily planning; browsing J drive|
+9/16/2025|9:30 AM  |12:00 PM |Predict Math Success|Writing business framework; reviewing Jason's work|
+9/16/2025|12:00 PM |2:00 PM |Break||
+9/16/2025|2:00 PM  |3:45 PM |Predict Math Success|Writing business framework|
+9/16/2025|3:45 PM  |4:00 PM |Break||
+9/16/2025|4:00 PM  |5:00 PM |Predict Math Success|Writing business framework; reviewing notes; committing to Git|
+9/17/2025|9:00 AM  |9:15 AM |Job Mngt|Reading emails; daily planning|
+9/17/2025|9:15 AM  |9:30 AM |Predict Math Success|Analytics framework|
+9/17/2025|9:30 AM  |10:30 AM |Break||
+9/17/2025|10:30 AM |11:45 AM |Predict Math Success|Analytics framework; brainstorming influences; EDA report|
+9/17/2025|11:45 AM |12:00 PM |Break||
+9/17/2025|12:00 PM |12:15 PM |Predict Math Success|Discussing Jason's report with him|
+9/17/2025|12:15 PM |1:00 PM |Break||
+9/17/2025|1:00 PM  |2:00 PM |Job Mngt|UAIR Learning Hour|Understanding Financials
+9/17/2025|2:00 PM  |4:45 PM |Predict Math Success|"Math placement project discussion" meeting; follow up notes and action items; discussing with Jason Hanser |
+9/18/2025|9:30 AM  |9:45 AM |Job Mngt|Reading emails; daily planning|Little bits of work performed before 9:30
+9/18/2025|9:45 AM  |10:30 AM |Predict Math Success|EDA report tables; computer re-start and git commit (time consuming!)|
+9/18/2025|10:30 AM  |10:45 AM |Break||
+9/18/2025|10:45 AM  |12:45 PM |Predict Math Success|Fixing git commit (time consuming!); re-starting and re-re-starting and submitting ticket (all time consuming); adding words to report and toggling titles and headings |
+9/18/2025|12:45 PM  |1:00 PM |Break||
+9/18/2025|1:00 PM  |4:00 PM |Predict Math Success|Re-naming as "Instructor Variation in Math Course Grading"; completing writing; emailing|
+9/18/2025|4:00 PM  |5:15 PM |Predict Math Success|Developing query for FTF; git commit; query as background job| 
+9/19/2025|7:30 AM  |8:00 AM|Job Mngt|Reading emails; planning; work report e-mail|
+9/19/2025|8:00 AM |8:30 AM |Break||
+9/19/2025|8:00 AM |9:00 AM |Job Mngt|Weekly log|
+9/19/2025|9:00 AM |9:30 AM |Break||
+9/19/2025|9:30 AM |10:45 AM |Job Mngt|Weekly log|Trouble-shooting; correcting errors; developing automatic checks
+9/19/2025|10:45 AM |1:00 PM |Predict Math Success|Raw data review meeting; reviewing notes| 
+9/19/2025|1:00 PM |1:30 PM |Break||
+9/19/2025|1:30 PM |5:15 PM |Job Mngt|Weekly log|Scripting quality checks; composing and sending e-mail
+

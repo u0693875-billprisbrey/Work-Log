@@ -1,0 +1,16 @@
+DATE     | START   | STOP   |CATEGORY  |ACTIVITIES    |NOTES
+9/22/2025|9:00 AM  |10:15 AM|Job Mngt  |Emails; reviewing last week; planning; setting meetings; GitHub (time consuming!); computer fix|
+9/22/2025|10:15 AM |1:00 PM|Predict Math Success |Writing analytical framework|Researching causal inference and integer programming
+9/22/2025|1:00 PM |2:15 PM|Break||
+9/22/2025|2:15 PM |3:00 PM|Predict Math Success |Writing analytical framework|Drivers and relationships
+9/22/2025|3:00 PM |4:00 PM|Break||
+9/22/2025|4:00 PM |5:00 PM|Predict Math Success |Writing analytical framework|Drivers and relationships; formatting
+9/22/2025|5:00 PM |5:15 PM|Job Mngt|Creating new work log script for the week of 9.22; commiting to Git|
+9/22/2025|5:00 PM |6:15 PM|Predict Math Success|Inspecting time to math course for FTF; committing to Git|
+9/23/2025|7:00 AM |8:15 AM|Predict Math Success|Investigating time to math for FTF popular courses|
+9/23/2025|8:15 AM |9:15 AM|Break||
+9/23/2025|9:15 AM |9:45 AM|Predict Math Success|Study causal inference|
+9/24/2025|9:45 AM |11:00 AM|Job Mngt|Backing up files; investigating slow processing; upgrading R
+
+
+
