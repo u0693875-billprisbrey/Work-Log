@@ -7,9 +7,9 @@ library(lubridate)
 ## LOAD ##
 ##########
 
-log_path <- "C:/Users/u0693875/Documents/Project Management/Work log/Notepad logs/Weekly Logs"
+# log_path <- "C:/Users/u0693875/Documents/Project Management/Work log/Notepad logs/Weekly Logs"
 
-log_files <- list.files(path = log_path, pattern = "\\.txt$", full.names = TRUE) |>
+log_files <- list.files(path = here::here("Notepad Logs"), pattern = "\\.txt$", full.names = TRUE) |>
   (\(x){x[!grepl("^~\\$", basename(x))] })()
 
 ## PRE-CHECK MOST RECENT FILE ##
