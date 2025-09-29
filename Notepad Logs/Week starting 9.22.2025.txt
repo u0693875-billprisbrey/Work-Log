@@ -10,7 +10,39 @@ DATE     | START   | STOP   |CATEGORY  |ACTIVITIES    |NOTES
 9/23/2025|7:00 AM |8:15 AM|Predict Math Success|Investigating time to math for FTF popular courses|
 9/23/2025|8:15 AM |9:15 AM|Break||
 9/23/2025|9:15 AM |9:45 AM|Predict Math Success|Study causal inference|
-9/24/2025|9:45 AM |11:00 AM|Job Mngt|Backing up files; investigating slow processing; upgrading R
-
+9/23/2025|9:45 AM |2:00 PM|Job Mngt|Backing up files; setting up loaner laptop|
+9/23/2025|2:00 PM |2:30 PM|Break||
+9/23/2025|2:30 PM |4:45 PM|Job Mngt|Trouble-shooting Git on work log project; trouble-shooting box drive on loaner laptop|
+9/24/2025|8:45 AM |9:15 AM|Job Mngt|Emails; review; and planning; updating Work Log script; discusssing laptop troubles with Joey|
+9/24/2025|9:15 AM |10:00 AM|Predict Math Success|Port project over|
+9/24/2025|10:00 AM|10:15 AM|Break||
+9/24/2025|10:15 AM|12:30 PM|Predict Math Success|Histograms, density plots, and clusters of course timing|
+9/24/2025|12:30 PM|1:30 PM|Break||
+9/24/2025|1:30 PM|2:30 PM|Job Mngt|Luis 1x1|Get a first pass on the decision tree quickly; try re-imaged laptop for a week; writing up notes
+9/24/2025|2:30 PM|2:45 PM|Break||
+9/24/2025|2:45 PM|3:15 PM|Travel||
+9/24/2025|3:15 PM|5:00 PM|Job Mngt|Setting up old re-imaged computer; struggling with re-establishing GitHub|
+9/25/2025|8:45 AM|9:45 AM|Job Mngt|Emails & planning; updating log; concurrently working with loander and original laptop|
+9/25/2025|9:45 AM|10:30 AM|Predict Math Success|Fighting loander laptop to set up a simple decision tree|Loaner R now sees unpredictable 10-15sec delay (I counted!), other times lightning fast
+9/25/2025|10:30 AM|11:30 AM|Break||
+9/25/2025|10:30 AM|1:30 PM|Predict Math Success|Cleaning and conducting a simple tree|
+9/25/2025|1:30 PM|2:30 PM|Job Mngt|Trouble-shooting re-imaged laptop|Not going well
+9/25/2025|2:30 PM|3:30 PM|Break||
+9/25/2025|3:30 PM|5:15 PM|Predict Math Success|Evaluating tree|Kappa is terrible. I need to filter out and combine some grades
+9/25/2025|5:15 PM|6:00 PM|Predict Math Success|Creating new tree script bucketing and cleaning grades; New tree script that predicts "course"|
+9/25/2025|6:00 PM|6:30 PM|Predict Math Success|Reviewing strategy and writing musings|
+9/25/2025|6:30 PM|9:45 PM|Break||
+9/25/2025|9:45 PM|10:45 PM|Predict Math Success|Writing evaluation script; fixing typo and re-training models|
+9/26/2025|7:45 AM|10:00 AM|Predict Math Success|Re-starting training with 5% of data; reviewing Whitney's queries; evaluating query samples|Computer crashed or re-booted overnight
+9/26/2025|10:00 AM|12:00 PM|Predict Math Success|Check-in meeting with Whitney; writing up notes; working on next training iteration|
+9/26/2025|12:00 PM|1:30 PM|Break||
+9/26/2025|1:30 PM|2:15 PM|Predict Math Success|working away|
+9/26/2025|2:15 PM|3:00 PM|PI Turnover|Status meeting; writing up notes|
+9/26/2025|3:00 PM|4:15 PM|Predict Math Success|Models with new buckets|
+9/26/2025|4:15 PM|6:00 PM|Break||
+9/26/2025|6:00 PM|8:00 PM|Predict Math Success|New models with more variables|
+9/27/2025|10:15 AM|11:45 AM|Predict Math Success|Trouble-shooting a loop to create several models|
+9/27/2025|11:45 AM|1:00 PM|Break||
+9/27/2025|1:00 PM|2:30 PM|Predict Math Success|Evaluating results from the loop; starting a new 35-hr training loop|
 
 
