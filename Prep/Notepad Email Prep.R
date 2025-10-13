@@ -30,7 +30,7 @@ pipe_counts <- sapply(gregexpr("\\|", lines), function(x) sum(x > 0))
 
 # incorrect pipe counts
 
-if(any(pipe_counts > 0 & pipe_counts < 5 )) {
+if(any(pipe_counts > 0 & pipe_counts < 5 )|any(pipe_counts > 5)) {
   
   stop(
     

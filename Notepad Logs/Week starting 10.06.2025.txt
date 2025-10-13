@@ -1,0 +1,43 @@
+DATE       | START   | STOP    | CATEGORY | ACTIVITIES               | NOTES
+10/06/2025 | 8:30 AM | 8:45 AM | Job Mngt | Emails; review; planning | it's all Predict Math Success
+10/06/2025 | 8:45 AM | 10:15 AM | Job Mngt | Weekly log and summary email; UBox training docs | Videos are unavailable
+10/06/2025 | 10:15 AM | 11:30 AM | Break || 
+10/06/2025 | 11:30 AM | 1:00 PM |Predict Math Success|Course load per term |
+10/06/2025 | 1:00 PM | 3:15 PM |Predict Math Success|Setting up vE0 for regression with more features |
+10/06/2025 | 3:15 PM | 3:45 PM |Break||
+10/06/2025 | 3:45 PM | 4:00 PM |Predict Math Success|Setting up vE0 for regression with more features |
+10/06/2025 | 4:00 PM | 5:00 PM |Break||	
+10/07/2025 | 5:45 AM | 6:30 AM |Predict Math Success|Evaluating vE0 models|      
+10/07/2025 | 9:30 AM | 12:00 PM |Predict Math Success|Evaluating vE0 models|
+10/07/2025 | 12:00 PM | 1:30 PM |Break||	
+10/07/2025 | 1:30 PM | 3:15 PM |Predict Math Success|Writing summary analysis of vE0 models|
+10/07/2025 | 3:15 PM | 4:00 PM |Predict Math Success|Identifying first math classes per student|
+10/08/2025 | 9:45 AM | 10:00 AM |Job Mngt | Saving files; re-booting|
+10/08/2025 | 10:00 AM | 10:30 AM |Predict Math Success | Committing to Git; trouble-shooting failure |
+10/08/2025 | 10:30 AM | 11:15 AM |Predict Math Success | Comparing first time math to Whitney's query |
+10/08/2025 | 11:15 AM | 12:15 PM |Break||
+10/08/2025 | 12:15 PM | 2:00 PM |Predict Math Success | Comparing first time math to Whitney's query|I'll run models on both
+10/08/2025 | 2:00 PM | 2:30 PM |Travel|Returning loaner laptop|
+10/08/2025 | 2:30 PM | 2:45 PM |Job Mngt|Returning loaner laptop|
+10/08/2025 | 2:45 PM | 3:15 PM |Travel|Returning home|
+10/08/2025 | 3:15 PM | 4:30 PM |Predict Math Success|Setting up Models F0 on first math classes & running|
+10/08/2025 | 4:30 PM | 5:00 PM |Predict Math Success|Setting up Models F1 on first math classes & running|	
+10/08/2025 | 5:00 PM | 5:45 PM |Break||
+10/08/2025 | 5:45 PM | 7:15 PM |Predict Math Success|Setting up Model G0 on WH data |
+10/08/2025 | 8:15 PM | 8:45 PM |Predict Math Success|Running Model G0 on WH data | 
+10/09/2025 | 10:00 AM | 10:15 AM| Job Mngt | Emails; reviewing; planning |
+10/09/2025 | 10:15 AM | 12:00 PM|Predict Math Success| Investigating AP credits | Probably spent too long on this, but it's a nice graphic
+10/09/2025 | 12:00 PM | 12:30 PM|Predict Math Success | Re-doing models G with new AP treatment| converting "NA" values to zero 
+10/09/2025 | 12:30 PM | 1:30 PM|Break||
+10/09/2025 | 1:30 PM | 2:00 PM|Predict Math Success | Re-doing models F with new AP treatment|
+10/09/2025 | 2:00 PM | 2:15 PM|Predict Math Success | Evaluating completed models |
+10/09/2025 | 2:15 PM | 3:00 PM|Break||
+10/09/2025 | 3:00 PM | 6:00 PM|Predict Math Success|Parameterized evaluation template and producing reports|
+10/09/2025 | 6:00 PM | 6:45 PM | Predict Math Success|Interpreting results|
+10/09/2025 | 6:45 PM | 7:00 PM | Predict Math Success|Committing to Git|
+10/10/2025 | 9:15 AM | 9:30 AM | Predict Math Success|Writing notes and musings |
+10/10/2025 | 9:30 AM | 9:45 AM | Job Mngt | Emails and Planning |
+10/10/2025 | 9:45 AM | 1:30 PM | PI Turnover | Porting prior projects; reviewing; walking thru prior programming |
+10/10/2025 | 1:30 PM | 2:15 PM | Break ||
+10/10/2025 | 2:15 PM | 5:00 PM | PI Turnover | Developing function or script to extract "brute force" fit stop/start dates; calculating headcount|
+

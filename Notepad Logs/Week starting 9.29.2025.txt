@@ -1,10 +1,44 @@
 DATE     | START   | STOP   |CATEGORY  |ACTIVITIES    |NOTES
 9/29/2025|9:30 AM  |10:00 AM|Job Mngt  |Emails; planning; scheduling; GitHub (time consuming!) |
 9/29/2025|10:00 AM  |10:30 AM|Predict Math Success |GitHub back-up of weekend's work (time consuming!) |
-9/29/2025|10:30 AM  |1:15 PM|Break  || 
-9/29/2025|1:15 PM   |1:45 PM|Predict Math Success |Concluding Github back-up|GitHub took 3 hours|
-9/29/2025|1:45 PM  | 2:45 PM|Job Mngt|Summarizing weekly log and sending e-mail|
-9/29/2025|2:45 PM  | 3:15 PM |Predict Math Success|Backing up loaner data 
+9/29/2025|10:30 AM |1:15 PM|Break  || 
+9/29/2025|1:15 PM  |1:45 PM|Predict Math Success |Concluding Github back-up|GitHub took 3 hours
+9/29/2025|1:45 PM  |2:45 PM|Job Mngt|Summarizing weekly log and sending e-mail; updating GitHub|
+9/29/2025|3:15 PM  |3:30 PM |Predict Math Success|Backing up loaner data| 
+9/29/2025|3:30 PM  |4:45 PM |Predict Math Success|Setting up GitHub on old re-imaged laptop; synching project|
+9/29/2025|4:45 PM  |6:15 PM |Predict Math Success|Evaluating models; writing RMarkdown report|
+9/30/2025|8:30 AM  |10:00 AM|Predict Math Success|Writing diagnostic visuals, investigating per course|
+9/30/2025|10:00 AM  |10:30 AM|Break||
+9/30/2025|10:30 AM  |11:30 AM|Predict Math Success|Reviewing decision tree interpretations|
+9/30/2025|11:30 AM  |1:15 PM|Break||
+9/30/2025|1:15 PM  |3:30 PM|Predict Math Success|Creating and inspecting EDA visualizations of predictors|
+9/30/2025|3:30 PM  |4:00 PM|Break||
+9/30/2025|4:00 PM  |4:30 PM|Travel||
+9/30/2025|4:30 PM  |6:00 PM|Professional development|R Users Group|External networking and continuing education	
+10/01/2025|4:30 AM | 4:45 AM |Job Mngt|Emails, log, and planning| 
+10/01/2025|4:45 AM  |5:00 AM|Predict Math Success|Creating visualizations; inspecting predictors; writing report|
+10/01/2025|9:00 AM  |10:15 AM|Predict Math Success|Reviewing notes, settling on "probabilistic guidance" over recommendation; imagining how to share this information as widgets loaded with individualized information|
+10/01/2025|10:15 AM  |10:30 AM|Break||
+10/01/2025|10:30 AM  |12:45 PM|Predict Math Success|Heat map function|
+10/01/2025|12:45 PM  |1:45 PM|Break||	
+10/01/2025|1:45 PM  |3:30 PM|Predict Math Success|Heat map function|
+10/01/2025|3:30 PM  |4:30 PM|Predict Math Success|Bin function; and comparison box plots|
+10/01/2025|4:30 PM  |6:30 PM|Predict Math Success|Partial dependence plots|
+10/01/2025|8:15 PM  |10:15 PM|Predict Math Success|Find accurate leaves; committing to Git|
+10/02/2025|9:30 AM | 10:00 AM |Job Mngt|Emails, log, and planning|
+10/02/2025|10:00 AM | 10:45 AM | Break ||
+10/02/2025|10:45 AM | 11:45 AM | Predict Math Success|High volume classes child|
+10/02/2025|11:45 AM | 1:00 PM | Break ||
+10/02/2025|1:00 PM |2:45 PM | Predict Math Success|High volume classes child|Adding trendline plot
+10/02/2025|2:45 PM |5:30 PM | Predict Math Success|Working on 'Evaluating Grade Decision Trees' report and appendices|	
+10/02/2025|8:45 PM |10:30 PM | Predict Math Success|Working on report; writing and cleaning up visualizations|
+10/03/2025|8:30 AM |10:00 AM | Predict Math Success|Trouble-shooting children; comparing data|
+10/03/2025|10:00 AM |11:00 AM | Predict Math Success|Progress check-in meeting| 
+10/03/2025|11:00 AM |11:30 AM | Predict Math Success|Reviewing meeting notes; thinking about next steps|
+10/03/2025|11:30 AM |1:15 PM | Predict Math Success|Comparing data|
+10/03/2025|1:15 PM | 2:30 PM | Break ||
+10/03/2025|2:30 PM |3:15 PM | Predict Math Success|Comparing data|
+10/03/2025|3:15 PM |5:30 PM | Predict Math Success|Polishing up report and e-mailing it|
 
 
-  last week's log; backing up loaner; porting to original
+
