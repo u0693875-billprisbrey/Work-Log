@@ -1,2 +1,35 @@
 DATE       | START   | STOP     | CATEGORY | ACTIVITIES                                         | NOTES
-10/13/2025 | 9:00 AM | 11:45 AM | Job Mngt| Emails; weekly report; restoring e-mail signatures |  
+10/13/2025 | 9:00 AM | 11:45 AM | Job Mngt| Emails; weekly report; planning; restoring e-mail signatures; committing to Git |  
+10/13/2025 | 11:45 AM | 1:15 PM | Break ||
+10/13/2025 | 1:15 PM | 6:15 PM | PI Turnover | Applying "brute force" fit approximation and adjusting functions | Merge is problematic (inflates headcount or multiplies rows); avoiding it looks like it might work 
+10/14/2025 | 8:45 AM | 9:00 AM | Job Mngt| Emails &  planning |
+10/14/2025 | 9:00 AM | 12:15 PM | Predict Math Success | Exploring first math courses and predictors | 
+10/14/2025 | 12:15 PM | 2:15 PM | Break||Dentist
+10/14/2025 | 2:15 PM | 4:30 PM | Predict Math Success |Review causal inference; exploring predictors; feature engineering |
+10/14/2025 | 4:30 PM | 9:30 PM | Break || 
+10/14/2025 | 9:30 PM | 10:30 PM | Predict Math Success |Review causal inference; exploring predictors; feature engineering |	
+10/15/2025 | 8:00 AM | 8:15 AM | Job Mngt | Emails; reviewing; planning |
+10/15/2025 | 8:15 AM | 10:00 AM | Predict Math Success |Developing visualizations|
+10/15/2025 | 10:00 AM | 10:15 AM | Break||
+10/15/2025 | 10:15 AM | 3:00 PM | Predict Math Success |Developing visualizations| fighting hexbin
+10/15/2025 | 3:00 PM | 6:45 PM | Break ||Medical (physical)
+10/15/2025 | 6:45 PM | 7:15 PM | Job Mngt | Saving files and mandatory computer update |
+10/15/2025 | 7:15 PM | 9:30 PM | Predict Math Success | Developing visualizations | quit hexbin and worked instantly in ggplot; really wasted some hours today 	
+10/16/2025 | 8:15 AM | 8:30 AM | Job Mngt | Emails; review; planning |
+10/16/2025 | 8:30 AM | 10:45 AM | Predict Math Success | Training new model with filters and feature engineering |
+10/16/2025 | 10:45 AM | 11:00 AM | Break||
+10/16/2025 | 11:00 AM | 12:00 PM | Predict Math Success | Training new models with filters and feature engineering; adjusting template |
+10/16/2025 | 12:00 PM | 1:30 PM | Break||
+10/16/2025 | 1:30 PM | 3:45 PM | Predict Math Success | Training model without "load"; training ordinalForest model |
+10/16/2025 | 3:45 PM | 5:15 PM | Predict Math Success | Putting descriptive visualizations into a report |
+10/17/2025 | 7:45 AM | 9:00 AM | Predict Math Success | Re-training course model; postponing ordinal model; re-scheduling meetings|R crashed earlier; Computer apparently re-booted overnight
+10/17/2025 | 9:00 AM | 9:15 AM | Break ||
+10/17/2025 | 9:15 AM | 10:30 AM | Predict Math Success | Expanding on descriptive report |
+10/17/2025 | 10:30 AM | 11:45 AM | Predict Math Success | Meeting prep; evaluating course prediction |
+10/17/2025 | 11:45 AM | 2:15 PM | Break||Taking son to doctor	
+10/17/2025 | 2:15 PM |3:30 PM | Predict Math Success |Reviewing notes; planning next steps; reviewing confusion matrix metrics|
+10/17/2025 | 3:30 PM |3:45 PM | Break ||
+10/17/2025 | 3:45 PM |5:30 PM | Predict Math Success |Modifying descriptive report by adding graphics that show change over time |
+10/18/2025 | 10:00 AM | 11:00 AM | Predict Math Success | Studying causal inference | MIT open courseware, 14. Causal Inference Part 1	
+
+
