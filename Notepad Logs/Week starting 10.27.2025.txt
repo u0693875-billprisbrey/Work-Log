@@ -1,0 +1,6 @@
+DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
+10/27/2025 | 8:00 AM | 12:00 PM | Predict Math Success| Trained model with most recent dates as a hold-out; converted to discrete values to calculate a confusion matrix; check-in meeting | 
+10/27/2025 | 12:00 PM | 1:30 PM | Break||
+10/27/2025 | 1:30 PM | 2:30 PM | Predict Math Success |Commit to git; write up notes; review reports; plan next steps |
+10/27/2025 | 2:30 PM | 3:30 PM | Job Mngt| Work log and summary e-mail  |
+10/27/2025 | 3:30 PM | 3:45 PM | Predict Math Success |Iterative annual models |

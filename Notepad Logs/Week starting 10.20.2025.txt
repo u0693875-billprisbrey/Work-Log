@@ -1,2 +1,48 @@
-DATE       | START   | STOP     | CATEGORY | ACTIVITIES                                         | NOTES
-10/20/2025 | 9:15 AM | 11:45 AM | Job Mngt| Emails; weekly report; planning;committing to Git | 
+DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
+10/20/2025 | 9:00 AM | 11:30 AM | Job Mngt| Emails; weekly report; planning;committing to Git | 
+10/20/2025 | 11:45 AM | 1:00 PM | Break||
+10/20/2025 | 1:00 PM | 1:30 PM | Job Mngt|1x1 with Luis|
+10/20/2025 | 1:30 PM | 2:15 PM | Break ||
+10/20/2025 | 2:15 PM | 4:45 PM |PI Turnover | Reviewing git commits and previous work; writing a prep script that performs and saves the brute force approximation |
+10/20/2025 | 4:45 PM | 5:00 PM | Break ||
+10/20/2025 | 5:00 PM | 5:45 PM |PI Turnover | Writing new functions to plot the individual journey with the brute force fit approximation  |
+10/21/2025 | 7:45 AM | 8:30 AM |PI Turnover | Starting to write report "Demonstrating Brute Force Fit" |
+10/21/2025 | 8:30 AM | 8:45 AM | Break ||        
+10/21/2025 | 8:45 AM | 10:15 AM |PI Turnover | Writing "Demonstrating Brute Force Fit" |
+10/21/2025 | 10:15 AM | 10:45 AM | Break || 
+10/21/2025 | 10:45 AM | 11:15 AM |PI Turnover | Writing "Demonstrating Brute Force Fit" |
+10/21/2025 | 11:15 AM | 11:45 AM | Travel ||
+10/21/2025 | 11:45 AM | 12:45 PM | Job Mngt |Internal networking |Lunch with Whitney Holt
+10/21/2025 | 12:45 PM | 1:15 PM | Travel ||
+10/21/2025 | 1:15 PM | 2:00 PM |PI Turnover | Writing "Demonstrating Brute Force Fit" |
+10/21/2025 | 2:00 PM | 2:30 PM |PI Turnover | Status update meeting |
+10/21/2025 | 2:30 PM | 3:00 PM |Break ||
+10/21/2025 | 2:30 PM | 5:15 PM |PI Turnover | Writing "Demonstrating Brute Force Fit"; writing "journeyPlotKey" guide  |
+10/22/2025 | 9:00 AM | 9:15 AM | Job Mngt | Emails; planning; survey | 
+10/22/2025 | 9:15 AM | 12:30 PM |PI Turnover | Improving "plotJourney" and "plotJourneyKey" functions | 
+10/22/2025 | 12:30 PM | 1:00 PM |Break || 
+10/22/2025 | 1:00 PM | 2:30 PM |PI Turnover |Modifying "Demonstrating Brute Force Fit"; applying brute force approximation to exclusive journey PI's | Adding headcount metrics for just PI's
+10/22/2025 | 2:30 PM | 3:00 PM |Break || 
+10/22/2025 | 3:00 PM | 5:30 PM |PI Turnover |Modifying "Demonstrating Brute Force Fit" | shows PI data
+10/22/2025 | 5:30 PM | 7:00 PM |Break || 
+10/22/2025 | 7:00 PM | 7:15 PM |PI Turnover |Modifying "Demonstrating Brute Force Fit" | shows all data
+10/23/2025 | 9:30 AM | 12:00 PM | Job Mngt | Starting and re-starting computer; fixing up home office|
+10/23/2025 | 12:00 PM | 12:45 PM | Break ||
+10/23/2025 | 12:45 PM | 1:15 PM | Travel||Taking laptop downtown		
+10/23/2025 | 1:15 PM | 2:15 PM | Job Mngt |IT support reconfigures laptop; rebooting|
+10/23/2025 | 2:15 PM | 5:00 PM |PI Turnover |Backing up data; committing to git; adding text to report; status meeting with HR | Git didn't work the first time
+10/23/2025 | 5:00 PM | 5:30 PM | Travel||Returning from taking the laptop downtown
+10/24/2025 | 8:30 AM | 8:45 AM | Job Mngt | Reviewing and planning|
+10/24/2025 | 8:45 AM | 10:00 AM |PI Turnover | Writing meeting notes; updating report with notes and re-sending; updating project issue document |
+10/24/2025 | 10:00 AM | 10:30 AM | Break ||
+10/24/2025 | 10:30 AM | 11:30 AM | Predict Math Success |Evaluating Sara's and Whitney's models; repeating Whitney's logreg |
+10/24/2025 | 11:30 AM | 1:30 PM | Break ||
+10/24/2025 | 1:30 PM | 2:15 PM | Predict Math Success |Studying causal inference |
+10/24/2025 | 2:15 PM | 5:15 PM | Predict Math Success |Calculating accuracy metrics from Whitney's model; writing proposal to focus on the minority class | 
+10/25/2025 | 8:00 AM | 10:15 AM | Predict Math Success |Writing proposal; committing to Git | 
+
+
+
+
+
+
