@@ -162,8 +162,62 @@ mostRecent <- mostRecent[,c("diff", colnames(mostRecent)[!colnames(mostRecent) %
 ## CHECK ##
 ###########
 
+# Check for date discontinuity
+
+
+if(any(diff(mostRecent$DATE) < 0 | diff(mostRecent$DATE) > 1 )){
+  
+  stop(
+    paste("Date discontinuity error:\n", 
+    mostRecent$DATE[diff(mostRecent$DATE) < 0 | diff(mostRecent$DATE) > 1  ],
+    collapse = "\n"
+  )
+  )
+  
+}
+
 # Check that START_dt and STOP_dt columns progress chronologically (each row is after the row preceding)
 
+startChron <- diff(order(mostRecent$START_dt))
+stopChron <- diff(order(mostRecent$STOP_dt))
+
+column_chron_check <- all(startChron == 1) & all(stopChron == 1)
 
 
+if(!column_chron_check) {
+  
+  stop(
+    
+    paste("Column chronology error:\n",
+          paste(capture.output(print(mostRecent[startChron !=1 | 
+                           stopChron !=1, c("diff","DATE","START","STOP") ])),
+                collapse = "\n"
+          ))
+  )
+} 
 
+# Check for overlaps and gaps
+
+# This only catches one gap at a time; it might be nicer to catch all the gaps and publish them at once
+
+
+lapply(unique(mostRecent$DATE), function(log_date){
+  
+target_date <- mostRecent[mostRecent$DATE == log_date,]  
+
+lapply(2:nrow(target_date), function(overlap){
+  
+  if(target_date$START_dt[overlap] != target_date$STOP_dt[overlap-1]) {
+  
+    stop(
+      paste("Overlap or gap error:\n",
+            paste(capture.output(print(target_date[c(overlap-1, overlap, overlap+1), c("diff","DATE","START","STOP")])),
+                  collapse = "\n"
+        )
+      )
+    )
+  }
+  
+})
+  
+})  

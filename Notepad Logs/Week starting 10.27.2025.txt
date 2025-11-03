@@ -3,4 +3,48 @@ DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
 10/27/2025 | 12:00 PM | 1:30 PM | Break||
 10/27/2025 | 1:30 PM | 2:30 PM | Predict Math Success |Commit to git; write up notes; review reports; plan next steps |
 10/27/2025 | 2:30 PM | 3:30 PM | Job Mngt| Work log and summary e-mail  |
-10/27/2025 | 3:30 PM | 3:45 PM | Predict Math Success |Iterative annual models |
+10/27/2025 | 3:30 PM | 3:45 PM | Predict Math Success |Trouble-shooting "drawCM" |
+10/27/2025 | 3:45 PM | 4:00 PM | Break||
+10/27/2025 | 4:00 PM | 5:30 PM | Predict Math Success |Modifying "drawCM"; updating Github | Fixed!
+10/27/2025 | 5:30 PM | 7:45 PM | Break||
+10/27/2025 | 7:45 PM | 9:00 PM | Predict Math Success | Toggling with different discretization thresholds |
+10/28/2025 | 8:45 AM | 9:00 AM | Job Mngt | Emails and planning |
+10/28/2025 | 9:00 AM | 11:00 AM | Job Mngt | Improving "drawCM" function | binary title on metrics; toggling special characters; committing to Git
+10/28/2025 | 11:00 AM | 11:15 AM | Break ||
+10/28/2025 | 11:15 AM | 1:45 PM | Job Mngt | Writing "drawCM" guide, copying to Box, and sharing it | first time creating anything in Box	
+10/28/2025 | 1:45 PM | 2:45 PM | Break ||
+10/28/2025 | 2:45 PM | 3:45 PM | Job Mngt | Internal Networking | Catching up with Tyler 
+10/28/2025 | 3:45 PM | 4:15 PM | Break ||
+10/28/2025 | 4:15 PM | 5:15 PM | Predict Math Success | Reconciling mine and Whitney's data sets |
+10/29/2025 | 8:45 AM | 10:30 AM | Predict Math Success | Reconciling mine and Whitney's data sets |
+10/29/2025 | 10:30 AM | 11:15 AM | Break ||
+10/29/2025 | 11:15 AM | 11:45 AM | Travel ||
+10/29/2025 | 11:45 AM | 12:30 PM | Job Mngt |Headshot|	
+10/29/2025 | 12:30 PM | 1:00 PM | Travel ||
+10/29/2025 | 1:00 PM | 2:00 PM | Job Mngt |UAIR Learning|
+10/29/2025 | 2:00 PM | 3:45 PM | Break ||Dentist
+10/29/2025 | 3:45 PM | 4:45 PM | Predict Math Success | Reconciling mine and Whitney's data sets |
+10/30/2025 | 8:15 AM | 9:00 AM | Predict Math Success | Reconciling mine and Whitney's data sets |
+10/30/2025 | 9:00 AM | 10:00 AM | Job Mngt | Internal networking | Tatiana Topyrik	
+10/30/2025 | 10:00 AM | 1:00 PM | Break ||
+10/30/2025 | 1:00 PM | 2:00 PM | Predict Math Success | Reconciling mine and Whitney's data sets |
+10/30/2025 | 2:00 PM | 2:30 PM | Job Mngt | Posit Product Discussion sponsored by Jacob Pettit |
+10/30/2025 | 2:30 PM | 5:00 PM | Predict Math Success | Reconciling mine and Whitney's data sets; report "Data reconciliation" completed | Time-consuming grind; no unexplained differences found	
+10/31/2025 | 7:00 AM | 7:45 AM | Predict Math Success | Setting up time partition; evaluating courses | 	
+10/31/2025 | 7:45 AM | 8:15 AM | Break ||
+10/31/2025 | 8:15 AM | 9:15 AM | Job Mngt |Planning; emails; restarting computer; starting time partition |
+10/31/2025 | 9:15 AM | 10:15 AM | Predict Math Success |Evaluating course models; planning next steps |
+10/31/2025 | 10:15 AM | 11:45 AM | Job Mngt | 1x1 meeting with Luis.  Prepping, meeting, writing up notes, thinking on impact |	
+10/31/2025 | 11:45 AM | 12:45 PM | Predict Math Success | Evaluating accuracy per year | Developing a template that I can use on expanded results
+10/31/2025 | 12:45 PM | 1:30 PM | Break ||
+10/31/2025 | 1:30 PM | 2:30 PM | Predict Math Success |	Evaluating accuracy per year | Developing a template
+10/31/2025 | 2:30 PM | 2:45 PM | Break ||
+10/31/2025 | 2:45 PM | 4:30 PM | Predict Math Success |	Evaluating accuracy per year; committing to Git | List of lists is tedious
+10/31/2025 | 4:30 PM | 7:00 PM | Break ||
+10/31/2025 | 7:00 PM | 9:15 PM | Predict Math Success |	draft of accuracy over time completed; re-training vJ0 | 
+
+
+
+
+
+	
