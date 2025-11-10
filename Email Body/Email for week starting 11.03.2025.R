@@ -34,7 +34,7 @@ dailyDisplay <- function() {
 
 summaryAgg <- recentCategory[recentCategory$CATEGORY != "Break",]
 
-summaryAgg$exp <- c("Daily log and report; improving and sharing 'drawCM' function; headshot", "Reconciled data sets; evaluating prediction accuracy over time", "Travel (headshot)" )
+summaryAgg$exp <- c("Daily log and planning; internal networking", "Informal check-in", "Predicting courses and grades over time; examining predictors over time; examining course effects via linear regression; developing counter-factuals" )
 
 checkTime <- function(){
   sum(summaryAgg$diff)
@@ -63,9 +63,9 @@ nextSteps <-
 * Summarize predictive models and key findings so far for general audience unfamiliar with both math courses and machine learning (IN PROGRESS) 
 * Proceed to recommendations  
 *    Experiment with prediction thresholds and the precision/recall tradeoff (DONE)    
-*    Develop counter-factuals   
+*    Develop counter-factuals (DONE)   
 *    Explore predicting courses (DONE)
-*    Explore changes over time in predictors (IN PROGRESS)  
+*    Explore changes over time in predictors (DONE)  
 * Develop 'W' grade prediction model for first math courses 
 * PI Turnover:  Review snapshot query from HR and write summary before pausing project    
 "
@@ -74,5 +74,5 @@ nextSteps <-
 ## SEND EMAIL ##
 ################
 
-source(here::here("Send Email", "Send Email (To Prisbrey Only).R"))
-# source(here::here("Send Email", "Send Email (To Luis).R"))
+# source(here::here("Send Email", "Send Email (To Prisbrey Only).R"))
+ source(here::here("Send Email", "Send Email (To Luis).R"))

@@ -1,0 +1,4 @@
+DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
+11/10/2025 | 8:15 AM | 8:30 AM | Job Mngt | Daily planning and e-mails | 
+11/10/2025 | 8:30 AM | 9:30 AM | Study Causal Inference |Chapter 1  | Discovering typos (infuriating)
+11/10/2025 | 9:30 AM | 10:15 AM | Job Mngt | Weekly report | Added table of daily time spent	

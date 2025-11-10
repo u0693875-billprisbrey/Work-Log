@@ -45,7 +45,12 @@ body_text <-
      -Bill  
      
     {signature}
-     
+    
+    
+    *Daily log:*
+    
+    {dailyDisplay()} 
+    
     "
     
   ))

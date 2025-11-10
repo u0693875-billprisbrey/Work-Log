@@ -14,7 +14,6 @@ sending_date <-
 
 signature <- add_image(file = here::here("Signatures", "Signature vB0.png"))
 
-  
 body_text <- 
   md(glue(
     
@@ -44,8 +43,14 @@ body_text <-
     Thanks,   
      -Bill  
      
+     
     {signature}
      
+     
+    *Daily log:*
+    
+    {dailyDisplay()}  
+ 
     "
     
   ))
