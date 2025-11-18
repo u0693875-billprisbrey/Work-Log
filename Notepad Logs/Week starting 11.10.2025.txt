@@ -2,3 +2,38 @@ DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
 11/10/2025 | 8:15 AM | 8:30 AM | Job Mngt | Daily planning and e-mails | 
 11/10/2025 | 8:30 AM | 9:30 AM | Study Causal Inference |Chapter 1  | Discovering typos (infuriating)
 11/10/2025 | 9:30 AM | 10:15 AM | Job Mngt | Weekly report | Added table of daily time spent	
+11/10/2025 | 10:15 AM | 12:45 PM  | Predict Math Success | Course models over time report; re-running model without course_level | 
+11/10/2025 | 12:45 PM | 1:30 PM | Break ||
+11/10/2025 | 1:30 PM | 3:30 PM  | Predict Math Success | Course models over time report; re-running model without course_level | 
+11/10/2025 | 3:30 PM | 6:00 PM | Break ||
+11/10/2025 | 6:00 PM | 7:30 PM  | Predict Math Success | Course models over time report | 	
+11/11/2025 | 8:30 AM | 8:45 AM | Job Mngt | Emails and planning |	
+11/11/2025 | 8:45 AM | 10:30 AM | Predict Math Success | Course models over time report polished and submitted (vC1) |	
+11/11/2025 | 10:30 AM | 11:00 AM | Break ||
+11/11/2025 | 11:00 AM | 11:15 AM | Job Mngt | Reviewed "missing comments Oct 2025" |	
+11/11/2025 | 11:15 AM | 12:45 PM | Predict Math Success | Grade models over time report |  	
+11/11/2025 | 12:45 PM | 1:30 PM | Break ||
+11/11/2025 | 1:30 PM | 3:30 PM | Predict Math Success | Grade models over time report | Conclusions aren't jumping out at me	  
+11/11/2025 | 3:30 PM | 3:45 PM | Break ||
+11/11/2025 | 3:45 PM | 4:45 PM | Predict Math Success | Predictors over time report | 	
+11/12/2025 | 9:00 AM | 9:15 AM | Job Mngt | Plans and re-booting |
+11/12/2025 | 9:15 AM | 11:30 AM | Predict Math Success | Predictors over time report | Examining trends by test submission	
+11/12/2025 | 11:30 AM | 1:30 PM | Break ||
+11/12/2025 | 1:30 PM | 4:45 PM | Predict Math Success | Predictors over time report | Knitting a draft	
+11/13/2025 | 8:15 AM | 8:30 AM | Job Mngt | Re-booting computer |
+11/13/2025 | 8:30 AM | 9:15 AM | Break ||
+11/13/2025 | 9:15 AM | 10:00 AM | Job Mngt | Multiple re-starting computer; review & planning | Some attempts at work between re-starting
+11/13/2025 | 10:00 AM | 11:45 AM | Predict Math Success | Predictors over time | Committing to Git took 20min
+11/13/2025 | 11:45 AM | 1:00 PM | Job Mngt | Internal networking | Lunch with Paul Peterson
+11/13/2025 | 1:00 PM | 4:00 PM | Predict Math Success | Predictors over time; reviewing and polishing reports; meeting prep | 
+11/13/2025 | 4:00 PM | 5:00 PM | Job Mngt | Luis 1x1 | Reviewed reports  
+11/14/2025 | 8:45 AM | 9:00 AM | Job Mngt | Review and planning | 
+11/14/2025 | 9:00 AM | 12:30 PM | Predict Math Success | Investigating approaches to managing missing test scores; training and reviewing models without test scores | 
+11/14/2025 | 12:30 PM | 2:15 PM | Break ||
+11/14/2025 | 2:15 PM | 3:00 PM | Predict mAth Success | Twenty models over time without test scores (vK0) evaluated | 
+11/14/2025 | 3:00 PM | 3:45 PM | Job Mngt | Researching issues in higher education | E. Gordon Gee's recent interview 
+11/14/2025 | 3:45 PM | 4:45 PM | Predict math success | Adding graphic examining recent courses | Wished I'd included 1040
+11/14/2025 | 4:45 PM | 5:00 PM | Job Mngt | Time card training and submission | 
+11/15/2025 | 10:00 AM | 11:00 AM | Study Causal Inference | Directed Acyclic Graphs (ch 2) |	
+
+

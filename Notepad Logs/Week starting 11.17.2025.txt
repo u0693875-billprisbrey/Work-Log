@@ -1,0 +1,18 @@
+DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
+11/17/2025 | 9:00 AM | 10:30 AM | Break || Medical 
+11/17/2025 | 10:30 AM |1:30 PM | Job Mngt | Reviewing notes; weekly log; improving handling of categories in log; write-up of computer problems | 
+11/17/2025 | 1:30 PM | 2:00 PM | Break ||	
+11/17/2025 | 2:00 PM | 4:00 PM | Job Mngt | Write-up of computer problems | Managing all logs; inspecting record; writing; experimenting with blastula	 
+11/17/2025 | 4:00 PM | 5:00 PM | Study Causal Inference | Investigating "matching" | 
+11/17/2025 | 5:00 PM | 5:45 PM | Break ||
+11/17/2025 | 5:45 PM | 8:00 PM | Study Causal Inference | Directed Acyclic Graphs | 
+11/18/2025 | 9:00 AM | 9:15 AM | Job Mngt | Review and planning |
+11/18/2025 | 9:15 AM | 11:00 AM | Study Causal Inference | DAG and Potential Outcomes |
+
+
+Sign up for parent-teacher conference	
+Dinner with missionaries	
+
+
+
+

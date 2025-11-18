@@ -147,6 +147,32 @@ if(any(mostRecent$diff > 12) | any(mostRecent$diff < 0 ) ) {
 mostRecent <- mostRecent[,c("diff", colnames(mostRecent)[!colnames(mostRecent) %in% "diff"])]
 
 
+#############
+## CORRECT ##
+#############
+
+# Uniform capitalization for categories
+
+categories <- unique(mostRecent$CATEGORY)
+
+if(length(unique(tolower(categories))) != length(categories)  ) {
+  print("Correcting capitalization error")
+  
+  mostRecent$CATEGORY <- mostRecent$CATEGORY |>
+    tolower() |>
+    tools::toTitleCase() 
+  
+}
+
+# confirm
+updatedCategories <-  unique(mostRecent$CATEGORY)
+if(length(updatedCategories) != length(unique(tolower(mostRecent$CATEGORY)))){
+  stop(
+    "Capitalization error persists; manually inspect and correct."
+  )
+}
+
+
 ###############
 ## AGGREGATE ##
 ###############
@@ -157,6 +183,8 @@ mostRecent <- mostRecent[,c("diff", colnames(mostRecent)[!colnames(mostRecent) %
 # recentWeek <- aggregate(diff ~ week(DATE), data = mostRecent, sum, na.rm=TRUE)
 
 # dailyRowCount <- aggregate(diff ~ DATE, data = mostRecent, length)
+
+
 
 ###########
 ## CHECK ##
@@ -205,6 +233,8 @@ lapply(unique(mostRecent$DATE), function(log_date){
   
 target_date <- mostRecent[mostRecent$DATE == log_date,]  
 
+if(nrow(target_date) != 1) {
+
 lapply(2:nrow(target_date), function(overlap){
   
   if(target_date$START_dt[overlap] != target_date$STOP_dt[overlap-1]) {
@@ -220,4 +250,28 @@ lapply(2:nrow(target_date), function(overlap){
   
 })
   
+}
+  
 })  
+
+
+# Check for white space oddness in categories
+
+# Eventually I'd like to find the category it is most similar to, and match it
+# per Claude:  Recommendation: Use stringdist package with Levenshtein distance and a threshold of 1-3 depending on your string lengths.
+# Another day
+
+strippedCategories <- 
+  mostRecent$CATEGORY |>
+  tolower() |>
+  (\(x){gsub(" ", "",x)})() |>
+  unique()
+
+if(length(updatedCategories) != length(strippedCategories)){
+  print(
+    "White space error; manually inspect and correct."
+  )
+  
+}
+
+
