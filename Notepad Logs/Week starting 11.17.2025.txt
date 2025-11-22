@@ -8,11 +8,32 @@ DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
 11/17/2025 | 5:45 PM | 8:00 PM | Study Causal Inference | Directed Acyclic Graphs | 
 11/18/2025 | 9:00 AM | 9:15 AM | Job Mngt | Review and planning |
 11/18/2025 | 9:15 AM | 11:00 AM | Study Causal Inference | DAG and Potential Outcomes |
-
-
-Sign up for parent-teacher conference	
-Dinner with missionaries	
-
-
-
+11/18/2025 | 11:00 AM | 1:00 PM | Predict Math Success | Review and plan; modifying heatmaps |
+11/18/2025 | 1:00 PM | 1:45 PM | Break ||
+11/18/2025 | 1:45 PM | 3:15 PM | Predict Math Success | Heatmaps for prediction vs actual |
+11/18/2025 | 3:15 PM | 3:45 PM | Break ||
+11/18/2025 | 3:45 PM | 5:30 PM | Predict Math Success | Histograms for predicted vs actual  |	
+11/19/2025 | 8:30 AM | 9:15 AM | Predict Math Success | Histograms comparing predicted vs actual |
+11/19/2025 | 9:15 AM | 10:45 AM | Break || Helping Edward with schoolwork; talking with teachers 
+11/19/2025 | 10:45 AM | 12:45 PM | Predict Math Success | Histograms comparing predicted vs actual |
+11/19/2025 | 12:45 PM | 1:00 PM | Break ||
+11/19/2025 | 1:00 PM | 2:00 PM | Job Mngt |UAIR Learning Hour | Dashboard Analysis and Strategy Hub
+11/19/2025 | 2:00 PM | 3:45 PM | Predict Math Success | Histograms comparing predicted vs actual |
+11/20/2025 | 8:30 AM | 9:15 AM | Job Mngt | Re-booting; teams messages; emails |
+11/20/2025 | 9:15 AM | 10:30 AM | Break ||Listened to online lecture on causal inference while exercising
+11/20/2025 | 10:30 AM | 2:00 PM | Predict Math Success | Histograms comparing predicted vs actual | Looking really good actually
+11/20/2025 | 2:00 PM | 2:30 PM | Predict Math Success | Prediction implications | 
+11/20/2025 | 2:30 PM | 2:45 PM | Break ||
+11/20/2025 | 2:45 PM | 3:45 PM | Predict Math Success | Deep dive into vH2 and visualizations|
+11/20/2025 | 3:45 PM | 4:00 PM | Break ||
+11/20/2025 | 4:00 PM | 5:45 PM | Predict Math Success | Re-writing vH2|
+11/21/2025 | 9:15 AM | 9:30 AM | Job Mngt | Daily planning |
+11/21/2025 | 9:30 AM |11:00 AM | Predict Math Success | Re-writing vH2; experimenting with cumulative accuracy|
+11/21/2025 | 11:00 AM | 11:30 AM | Break ||
+11/21/2025 | 11:30 AM | 12:00 PM | Travel ||
+11/21/2025 | 12:00 PM | 2:00 PM | Job Mngt | UAIR Thanksgiving Lunch|
+11/21/2025 | 2:00 PM | 2:30 PM | Travel ||	
+11/21/2025 | 2:30 PM | 5:15 PM | Predict Math Success |Adding cumulative accuracy to vH2, trying to write so. much. up.|
+11/22/2025 | 10:45 AM | 11:00 AM | Predict Math Success |Reviewing vH2 report; adding notes; committing to Git |
+11/22/2025 | 11:00 AM | 11:30 AM | Job Mngt |Weekly log |
 
