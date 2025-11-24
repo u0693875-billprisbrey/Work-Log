@@ -36,4 +36,6 @@ DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
 11/21/2025 | 2:30 PM | 5:15 PM | Predict Math Success |Adding cumulative accuracy to vH2, trying to write so. much. up.|
 11/22/2025 | 10:45 AM | 11:00 AM | Predict Math Success |Reviewing vH2 report; adding notes; committing to Git |
 11/22/2025 | 11:00 AM | 11:30 AM | Job Mngt |Weekly log |
+11/22/2025 | 11:30 AM | 2:00 PM | Predict Math Success |Comparing vH2 and vK0[2024] (no test scores) |
+
 

@@ -41,7 +41,7 @@ checkTime <- function(){
 # mostRecent[mostRecent$CATEGORY == "Job Mngt",]
 # mostRecent[mostRecent$CATEGORY == "Study Causal Inference",]
 
-summaryAgg$exp <- c("Daily log and planning; re-booting computer; time card training; internal networking", "Improving multiple reports (grades, courses, and predictors over time); Reviewing with Luis", "Directed acyclic graphs" )
+summaryAgg$exp <- c("Daily log; UAIR lunch; laptop write-up", "Deeper dive into vH2, comparing to vK0, adding and improving visualizations", "Directed acyclic graphs; matching", "UAIR lunch" )
 
 
 
@@ -51,14 +51,14 @@ summaryAgg$exp <- c("Daily log and planning; re-booting computer; time card trai
 
 assignments <- 
   "
-* Send e-mail describing problems with laptop.  
+* Send e-mail describing problems with laptop. DONE  
 * Predict 'W' with current variables.   	
 * Review HR guidelines and put together a plan for title change to Senior/Lead/Principal Data Scientist 
 "
 
 agendaItems <- 
   "
-  * Review latest progress on math placement guidelines and individualized predictions
+  * Compare predictive models with and without test scores
 "
 
 nextSteps <- 
