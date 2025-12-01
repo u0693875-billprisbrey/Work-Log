@@ -1,0 +1,4 @@
+DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
+12/01/2025 | 9:00 AM | 10:15 AM | Job Mngt |Morning planning; weekly report | Committing to Git; re-booting; 
+12/01/2025 | 10:15 AM | 12:00 AM | Break || Dr appt	
+

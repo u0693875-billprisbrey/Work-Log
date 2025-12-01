@@ -1,0 +1,15 @@
+DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
+11/24/2025 | 8:30 AM | 8:45 AM | Job Mngt |Morning planning | Committing to Git; re-booting; 
+11/24/2025 | 8:45 AM | 10:30 AM | Predict Math Success |comparing vH2 and vK0 predictions |
+11/24/2025 | 10:30 AM | 11:00 AM | Break ||
+11/24/2025 | 11:00 AM | 2:00 PM | Predict Math Success |comparing vH2 and vK0 predictions; knitting updated versions of 3 reports and reviewing | 
+11/24/2025 | 2:00 PM | 2:45 PM | Break ||
+11/24/2025 | 2:45 PM | 4:30 PM | Predict Math Success | Counterfactuals |
+11/24/2025 | 4:30 PM | 5:15 PM | Job Mngt | Luis 1x1 |
+11/25/2025 | 8:45 AM | 9:00 AM | Job Mngt | Daily planning |
+11/25/2025 | 9:00 AM | 1:15 PM | Predict Math Success | counterfactual graphic |
+11/25/2025 | 1:15 PM | 2:30 PM | Break || 
+11/25/2025 | 2:30 PM | 5:15 PM | Predict Math Success | Investigating counterfactuals |
+11/26/2025 | 9:00 AM | 5:00 PM | Vacation ||
+11/27/2025 | 9:00 AM | 5:00 PM | Holiday ||
+11/28/2025 | 9:00 AM | 5:00 PM | Holiday ||
