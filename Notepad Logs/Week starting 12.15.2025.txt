@@ -1,0 +1,36 @@
+DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
+12/15/2025 | 9:00 AM | 10:30 AM | Break || 
+12/15/2025 | 10:30 AM | 10:45 AM | Job Mngt | Morning planning |	
+12/15/2025 | 10:45 AM | 12:00 PM | Predict Math Success | Adjusting courseScatter function |	
+12/15/2025 | 12:00 PM | 1:30 PM | Break ||	
+12/15/2025 | 1:30 PM  | 4:00 PM | Predict Math Success | Adding cluster overlay to courseScatter |
+12/15/2025 | 4:00 PM  | 4:45 PM | Break ||	
+12/15/2025 | 4:45 PM | 5:15 PM | Predict Math Success | Displaying individual clusters | 
+12/15/2025 | 5:15 PM  | 6:00 PM | Break ||	
+12/15/2025 | 6:00 PM | 6:45 PM | Predict Math Success | Displaying the table | 
+12/15/2025 | 6:45 PM  | 7:15 PM | Break ||	
+12/15/2025 | 7:15 PM | 8:30 PM | Predict Math Success | Knitting and iterating on report | 
+12/16/2025 | 8:30 AM | 9:45 AM | Predict Math Success | Course guide report |
+12/16/2025 | 9:45 AM  | 10:00 AM | Break ||	
+12/16/2025 | 10:00 AM | 12:15 PM | Predict Math Success | Course guide report | Polishing current visualizations	 
+12/16/2025 | 12:15 PM  | 1:30 PM | Break ||	
+12/16/2025 | 1:30 PM | 2:15 PM | Predict Math Success | Course guide report | Attempting and abandoning prediction section; polishing 
+12/16/2025 | 2:15 PM | 3:30 PM | Job Mngt | Computer crashed; multiple force-quits and re-starts | 
+12/16/2025 | 3:30 PM | 5:15 PM | Predict Math Success | Course guide report | Sharing draft report; setting up model with distance variable 	
+12/17/2025 | 9:00 AM | 9:45 AM | Predict Math Success | Setting up model with distance variable |	
+12/17/2025 | 9:45 AM | 11:15 AM | Break || 
+12/17/2025 | 11:15 AM | 2:30 PM | Predict Math Success | Training and evaluating model (vH3) with distance z-scores | model slightly improves; optimums shift	
+12/17/2025 | 2:30 PM | 3:00 PM | Break || 
+12/17/2025 | 3:00 PM | 5:00 PM | Predict Math Success | Examining model; visualizing z-score predictors; modifying deep dive report | 	 	
+12/17/2025 | 5:00 PM | 7:15 PM | Break || 
+12/17/2025 | 7:15 PM | 9:15 PM | Predict Math Success | Visualizing z-score predictors; modifying deep dive report; experimenting with model metrics; committing to Git |	
+12/18/2025 | 9:30 AM | 10:30 AM | Predict Math Success | Recall and precision of flunking (<1.7); adjusting "cut" arguments as right-open |
+12/18/2025 | 10:30 AM | 1:15 PM | Break || 
+12/18/2025 | 1:15 PM | 5:00 PM | Predict Math Success | Polishing vH3 deep dive report | Distribution and box plots of z-scores  
+12/18/2025 | 5:00 PM | 6:45 PM | Break || 
+12/18/2025 | 6:45 PM | 8:30 PM | Predict Math Success | Counterfactuals with vH3 report | Attempt to merge EMPLID's back in fails	 
+12/19/2025 | 9:00 AM | 10:30 AM | Prof Dev | Study Causal Inference |
+12/19/2025 | 10:30 AM | 10:45 AM | Break ||   
+12/19/2025 | 10:45 AM | 12:00 PM | Predict Math Success | Counterfactuals with vH3 report | Re-training with EMPLIDs
+12/19/2025 | 12:00 PM | 1:45 PM | Break ||   
+12/19/2025 | 1:45 PM | 5:45 PM  | Predict Math Success | Counterfactuals using vH3 model  | aligned EMPLID's, examining results and predictions

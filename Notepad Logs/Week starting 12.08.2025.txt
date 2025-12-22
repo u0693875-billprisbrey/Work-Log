@@ -1,0 +1,35 @@
+DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
+12/08/2025 | 8:45 AM | 9:00 AM | Job Mngt |Morning planning | 
+12/08/2025 | 9:00 AM | 12:00 PM | Break ||	
+12/08/2025 | 12:00 PM | 1:15 PM | Predict math success | IQR graphic | 
+12/08/2025 | 1:15 PM | 4:00 PM | Predict math success | IQR graphic and guidelines|
+12/08/2025 | 4:00 PM | 4:15 PM | Break ||
+12/08/2025 | 4:15 PM | 5:45 PM | Predict math success | IQR graphic and guidelines|
+12/09/2025 | 8:45 AM | 9:45 AM | Job Mngt |Internal networking | 
+12/09/2025 | 9:45 AM | 10:00 AM |Break ||	
+12/09/2025 | 10:00 AM | 11:30 AM | Predict math success | IQR graphic and guidelines|
+12/09/2025 | 11:30 AM | 1:15 PM |Break ||	
+12/09/2025 | 1:15 PM | 4:45 PM | Predict math success | IQR graphic and guidelines|
+12/10/2025 | 9:15 AM | 10:45 AM | Job Mngt | Morning planning; prepping and sending weekly work log (for last week) | 
+12/10/2025 | 10:45 AM | 11:30 AM | Predict Math Success | Experimenting with IQR graphic | 
+12/10/2025 | 11:30 AM | 12:45 PM |Break ||	
+12/10/2025 | 12:45 PM | 2:45 PM | Predict Math Success | Experimenting with IQR graphic, distances, what-if's | 
+12/10/2025 | 2:45 PM | 3:15 PM |Break ||	
+12/10/2025 | 3:15 PM | 5:15 PM | Predict Math Success | Distances and what-if's; comparing to counterfactuals | 
+12/11/2025 | 9:15 AM | 10:30 AM | Predict Math Success | Preparing report; developing execution options | 
+12/11/2025 | 10:30 AM | 10:45 AM | Break ||
+12/11/2025 | 10:45 AM | 11:15 AM | Travel | Arrived early to UAIR lunch |	 
+12/11/2025 | 11:15 AM | 2:30 PM | Job Mngt | UAIR lunch |
+12/11/2025 | 2:30 PM | 3:00 PM | Travel | Returning  | 
+12/11/2025 | 3:00 PM | 4:00 PM | Predict Math Success | Putting graphics into distance report |
+12/11/2025 | 4:00 PM | 5:00 PM | Job Mngt | Luis 1x1; thinking on implications; writing up notes |
+12/12/2025 | 8:30 AM | 8:45 AM | Job Mngt | Daily planning | 
+12/12/2025 | 8:45 AM | 12:15 PM | Predict Math Success | Developing guidelines | 
+12/12/2025 | 12:15 PM | 1:30 PM | Break ||	
+12/12/2025 | 1:30 PM | 2:30 PM | Predict Math Success | Experimenting with clusters | 
+12/12/2025 | 2:30 PM | 3:00 PM | Break ||	
+12/12/2025 | 3:00 PM | 5:30 PM | Predict Math Success | Experimenting with clusters; flowchart | 
+12/13/2025 | 12:00 PM | 1:00 PM | Predict Math Success | More work with clusters; report layout and flow | 
+12/13/2025 | 1:00 PM | 1:30 PM | Break || 	
+12/13/2025 | 1:30 PM | 3:00 PM | Predict Math Success | Clusters and displaying them | 
+
