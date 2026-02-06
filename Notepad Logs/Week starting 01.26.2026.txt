@@ -1,0 +1,41 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+01/26/2026 | 8:15 AM  | 9:45 AM | Predict Math Success  | PCA distance extraction  | Moving to loops  
+01/26/2026 | 9:45 AM | 11:00 AM | Break || Meeting with Edward's counselor	
+01/26/2026 | 11:00 AM | 12:30 PM | Predict Math Success  | PCA distance extraction  | Moving to loops
+01/26/2026 | 12:30 PM | 1:30 PM | Break ||	
+01/26/2026 | 1:30 PM | 2:45 PM | Predict Math Success  | working on vM2 | discovered discrepancy	 
+01/26/2026 | 2:45 PM | 3:00 PM | Break || 
+01/26/2026 | 3:00 PM | 5:15 PM | Predict Math Success  | working on vM2 | adding a cleaning step	 
+01/27/2026 | 9:00 AM  | 9:30 AM | Job Mngt | Daily Planning; updating log | 
+01/27/2026 | 9:30 AM  | 9:45 AM | Break ||
+01/27/2026 | 9:45 AM  | 12:30 PM | Predict Math Success |writing vM2 | script keeps crashing
+01/27/2026 | 12:30 PM  | 2:00 PM | Break ||
+01/27/2026 | 2:00 PM  | 3:00 PM | Job Mngt |Training | Rahul on Jira
+01/27/2026 | 3:00 PM  | 3:15 PM | Job Mngt | Re-booting |
+01/27/2026 | 3:15 PM  | 3:45 PM | Predict Math Success | writing vM2 | 
+01/27/2026 | 3:45 PM  | 4:15 PM | Job Mngt | Internal networking |	
+01/27/2026 | 4:15 PM | 5:15 PM | Predict Math Success | writing vM2 | FINALLY started to train 
+01/28/2026 | 8:15 AM | 8:30 AM | Job Mngt | Daily planning |
+01/28/2026 | 8:30 AM | 10:30 AM | Predict math success | Reviewing results | 
+01/28/2026 | 10:30 AM | 11:45 AM | Job Mngt | External networking | 
+01/28/2026 | 11:45 AM | 12:30 PM | Predict math success | Reviewing results; training vM3 |
+01/28/2026 | 12:30 PM | 1:15 PM | Break ||
+01/28/2026 | 1:15 PM | 2:00 PM | Job Mngt | UAIR Virtual Team Meeting | 
+01/28/2026 | 2:00 PM | 3:00 PM | Job Mngt | Internal networking |
+01/28/2026 | 3:00 PM | 4:45 PM | Predict Math Success | training vM3 and vM4 |
+01/29/2026 | 8:30 AM | 8:45 AM | Job Mngt | Daily planning |
+01/29/2026 | 8:45 AM | 10:30 AM |Predict Math Success | Reviewing results; meeting prep; feedback from Jason; thinking on next steps | 
+01/29/2026 | 10:30 AM | 10:45 AM | Break ||
+01/29/2026 | 10:45 AM | 12:00 PM | Predict Math Success | Updating Jira; thinking on next steps and distribution |		
+01/29/2026 | 12:00 PM | 12:45 PM | Break ||	
+01/29/2026 | 12:45 PM | 4:00 PM | Predict Math Success | Updating Jira; writing summary of PCA results |	
+01/29/2026 | 4:00 PM | 4:15 PM | Break ||
+01/29/2026 | 4:15 PM | 4:30 PM | Job Mngt | Updating log; reviewing vacation hours |
+01/29/2026 | 4:30 PM | 5:15 PM | Predict Math Success | Trouble-shooting PCA summary |
+01/30/2026 | 8:15 AM | 8:30 AM | Job Mngt | Daily planning |
+01/30/2026 | 8:30 AM | 12:00 PM | Predict Math Success | Polishing PCA summary; prepping for meeting; Math Placement meeting |
+01/30/2026 | 12:00 PM | 1:15 PM | Break ||	
+01/30/2026 | 1:15 PM | 4:15 PM | Predict Math Success | Reviewing notes and planning; scheduling next meeting; updating cleaning and model; expanding window annual model |
+01/30/2026 | 4:15 PM | 4:45 PM | Job Mngt | Computer crash and re-boots |
+01/30/2026 | 4:45 PM | 5:15 PM | Predict Math Success | Training model for grades with z-scores and distances over time | 
+ 

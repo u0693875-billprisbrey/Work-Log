@@ -1,5 +1,5 @@
 DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
-12/22/2025 | 9:00 AM | 10:45 AM | Job Mngt |Work log | Compiling weekly summary; some errors still unresolved | For last week
+12/22/2025 | 9:00 AM | 10:45 AM | Job Mngt |Work log | Compiling weekly summary for last week; some errors still unresolved 
 12/22/2025 | 10:45 AM | 12:15 PM | Job Mngt |Computer crashed |Re-started several times and apps still won't open	
 12/22/2025 | 12:15 PM | 1:15 PM | Break ||
 12/22/2025 | 1:15 PM | 1:45 PM | Travel || 
@@ -7,3 +7,12 @@ DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
 12/22/2025 | 2:15 PM | 3:00 PM | Job Mngt | Compiling weekly summary; internal networking | From prior week	
 12/22/2025 | 3:00 PM | 3:30 PM | Travel || 
 12/22/2025 | 3:30 PM | 4:30 PM | Break ||
+12/22/2025 | 4:30 PM | 6:00 PM  | Predict Math Success | Designing new graphic; inspecting results |	
+12/23/2025 | 8:30 AM | 10:30 AM | Predict Math Success | Improving counterfactuals | 
+12/23/2025 | 10:30 AM | 10:45 AM | Break ||
+12/23/2025 | 10:45 AM | 1:30 PM | Predict Math Success | Modifying graphic | 
+12/23/2025 | 1:30 PM | 2:15 PM | Break ||
+12/23/2025 | 2:15 PM | 4:30 PM | Predict Math Success | Qualifying predictions | Developing <=3 distance cut-off	
+12/24/2025 | 9:00 AM | 5:00 PM | Holiday || 
+12/25/2025 | 9:00 AM | 5:00 PM | Holiday ||
+12/26/2025 | 9:00 AM | 5:00 PM | Holiday ||

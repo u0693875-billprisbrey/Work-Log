@@ -1,0 +1,18 @@
+DATE       | START   | STOP     | CATEGORY | ACTIVITIES | NOTES
+12/29/2025 | 8:00 AM | 8:45 AM | Job Mngt |Daily planning | E-mails and review
+12/29/2025 | 8:45 AM | 10:30 AM | Break || 
+12/29/2025 | 10:30 AM | 11:15 AM | Predict Math Success | Revising graphic with distance cut-off | 
+12/29/2025 | 11:15 AM | 12:30 PM | Break || 
+12/29/2025 | 12:30 PM | 3:00 PM | Predict Math Success | Modifying course guide with new graphic and examples |	 
+12/29/2025 | 3:00 PM | 3:30 PM | Break || 
+12/29/2025 | 3:30 PM | 4:00 PM | Predict Math Success | Modifying course guide with new graphic and examples | 	 
+12/29/2025 | 4:00 PM | 4:45 PM | Break || 
+12/29/2025 | 4:45 PM | 6:15 PM | Predict Math Success | Modifying course guide with new graphic and examples |	 
+12/29/2025 | 6:15 PM | 7:15 PM | Break || 
+12/29/2025 | 7:15 PM | 8:15 PM | Predict Math Success | Modifying course guide with new graphic and examples | 
+12/29/2025 | 8:15 PM | 10:00 PM | Predict Math Success | Create parameterized template for individual recommendations | 
+12/30/2025 | 9:15 AM | 10:30 AM | Job Mngt | Daily planning; couple of updates and re-boots; tallying vacations |
+12/30/2025 | 10:30 AM | 5:00 PM | Vacation || Taking the rest of the day off; system is confusing  	
+12/31/2025 | 9:00 AM | 5:00 PM | Vacation ||	
+01/01/2026 | 9:00 AM | 5:00 PM | Holiday || 
+01/02/2026 | 9:00 AM | 5:00 PM | Vacation ||

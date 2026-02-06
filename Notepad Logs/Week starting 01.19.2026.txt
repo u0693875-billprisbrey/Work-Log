@@ -1,0 +1,31 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+01/19/2026 | 9:00 AM  | 5:00 PM | Holiday  ||  
+01/20/2026 | 8:15 AM  | 11:30 AM | Predict Math Success | Implementing PCA | 
+01/20/2026 | 11:30 AM  | 12:15 PM | Job Mngt | Dealing with computer crash | 
+01/20/2026 | 12:15 PM | 1:45 PM | Break ||
+01/20/2026 | 1:45 PM | 4:45 PM | Prof Dev | Re-starting computer while studying PCA and causal inference | 
+01/21/2026 | 8:15 AM  | 9:30 AM | Job Mngt | Working with slow computer |	
+01/21/2026 | 9:30 AM  | 11:30 AM | Break ||
+01/21/2026 | 11:30 AM  | 12:00 PM | Travel || Downton for laptop repair
+01/21/2026 | 12:00 PM  | 12:30 PM | Job Mngt | Laptop repair |
+01/21/2026 | 12:30 PM  | 1:00 PM | Job Mngt | Opening programs; evaluating computer |
+01/21/2026 | 1:00 PM  | 2:00 PM | Break ||
+01/21/2026 | 2:00 PM  | 2:30 PM | Travel ||
+01/21/2026 | 2:30 PM  | 4:45 PM | Predict Math Success | Experimenting with PCA |
+01/21/2026 | 4:45 PM  | 10:45 PM | Break ||
+01/21/2026 | 10:45 PM  | 11:45 PM | Predict Math Success | Experimenting with PCA consistency |
+01/22/2026 | 8:45 AM  | 12:15 PM | Predict Math Success | Calculating distances |
+01/22/2026 | 12:15 PM  | 1:15 PM | Break ||
+01/22/2026 | 1:15 PM  | 3:15 PM | Predict Math Success | Developing PCA loop |
+01/22/2026 | 3:15 PM  | 3:30 PM | Break ||
+01/22/2026 | 3:30 PM  | 5:15 PM | Predict Math Success | Trouble-shooting PCA loop |
+01/22/2026 | 5:15 PM  | 10:00 PM | Break ||
+01/22/2026 | 10:00 PM  |11:00 PM | Predict Math Success | Trouble-shooting PCA loop |
+01/23/2026 | 10:15 AM  | 1:00 PM | Predict Math Success | Adjusting PCA loop | re-structuring loop; checking sign flip in PCA
+01/23/2026 | 1:00 PM | 2:00 PM | Job Mngt |Meeting | Monthly DARS data
+01/23/2026 | 2:00 PM | 4:15 PM | Predict Math Success | Adjusting PCA loop | 
+01/23/2026 | 4:15 PM  | 4:30 PM | Break ||
+01/23/2026 | 4:30 PM | 5:30 PM | Predict Math Success | Working with predictions; experimenting with rolling three years  | 
+01/24/2026 | 3:45 PM | 6:00 PM | Predict Math Success | Calculating distance to prior year's medians |	
+01/24/2026 | 6:00 PM  | 8:45 PM | Break ||
+01/24/2026 | 8:45 PM | 10:00 PM | Predict Math Success | Calculating distance to prior year's medians |	

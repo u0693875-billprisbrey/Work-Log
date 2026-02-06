@@ -1,0 +1,32 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+01/05/2026 | 8:30 AM  | 9:30 AM | Job Mngt  | Daily planning | E-mails; review; reboot 
+01/05/2026 | 9:30 AM  | 11:30 AM | Predict Math Success | Revising graphic with closest six; committing to Git |
+01/05/2026 | 11:30 AM | 12:45 PM | Break ||
+01/05/2026 | 12:45 PM  | 6:00 PM | Predict Math Success | Revising graphic with closest six |
+01/06/2026 | 8:30 AM  | 12:15 PM | Predict Math Success | Modifying individual template; developing examples | 
+01/06/2026 | 12:15 PM  | 1:30 PM | Break ||  
+01/06/2026 | 1:30 PM  | 3:30 PM | Predict Math Success | Modifying individual template; developing examples |
+01/06/2026 | 3:30 PM  | 4:00 PM | Break ||  
+01/06/2026 | 4:00 PM  | 5:15 PM | Predict Math Success | Trouble-shooting individual examples |	 
+01/07/2026 | 9:15 AM  | 9:45 AM | Predict Math Success | Modifying course guide | Removing demonstrations and adding information about predictive models	
+01/07/2026 | 9:45 AM  | 10:30 AM | Break ||
+01/07/2026 | 10:30 AM | 12:00 PM | Predict Math Success | Modifying course guide | Removing demonstrations and adding information about predictive models  
+01/07/2026 | 12:00 PM  | 12:45 PM | Break ||
+01/07/2026 | 12:45 PM | 2:15 PM | Predict Math Success | Modifying course guide | Removing demonstrations and describing predictive models  
+01/07/2026 | 2:15 PM  | 2:45 PM | Break ||	
+01/07/2026 | 2:45 PM | 4:45 PM | Predict Math Success | Modifying course guide | Polishing text on course guide and sending out	
+01/07/2026 | 4:45 PM | 8:00 PM | Break ||	
+01/07/2026 | 8:00 PM | 9:45 PM | Predict Math Success | Creating plotly version of course scatter |
+01/08/2026 | 10:00 AM | 10:15 AM | Job Mngt | Daily planning |
+01/08/2026 | 10:15 AM | 11:15 AM | Predict Math Success | Review & planning | I need an outline of multiple "chapters"	
+01/08/2026 | 11:15 AM | 11:30 AM | Predict Math Success | Attempted to add plotly version to course scatter | Attempted and abandoned; too time consuming and can do later
+01/08/2026 | 11:30 AM | 1:00 PM | Job Mngt | Weekly logs and reports | Last two weeks of December 
+01/08/2026 | 1:00 PM | 1:45 PM | Break || 
+01/08/2026 | 1:45 PM | 3:15 PM | Predict Math Success | Writing outline; reviewing reports |	
+01/08/2026 | 3:15 PM | 4:30 PM | Break || 	
+01/08/2026 | 4:30 PM | 6:00 PM | Predict Math Success | Reviewing reports |		
+01/09/2026 | 9:45 AM | 10:00 AM | Job Mngt | Morning planning |	
+01/09/2026 | 10:00 AM | 12:15 PM | Predict Math Success | Reviewing reports; writing outline; writing clean and prep child |	
+01/09/2026 | 12:15 PM | 3:30 PM | Sick | kid's doctor appointment |		
+01/09/2026 | 3:30 PM | 5:30 PM | Predict Math Success | Writing clean and prep section |	
+

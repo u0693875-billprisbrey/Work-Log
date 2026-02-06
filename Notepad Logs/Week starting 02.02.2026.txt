@@ -1,0 +1,33 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+02/02/2026 | 6:00 AM  | 10:45 AM | Predict Math Success  | Committing vQ0 to git; Courses over time using "dist" metrics  | Creating a grid of all course options per year   
+02/02/2026 | 10:45 AM  | 12:15 PM | Break  ||	
+02/02/2026 | 12:15 PM  | 3:00 PM | Predict Math Success  | Courses over time | 
+02/02/2026 | 3:00 PM | 3:15 PM | Break ||	
+02/02/2026 | 3:00 PM | 4:00 PM | Predict Math Success | Courses over time |
+02/02/2026 | 4:00 PM | 5:00 PM | Job Mngt |Internal Networking | Dave Howell
+02/02/2026 | 5:00 PM | 5:45 PM | Break ||	
+02/02/2026 | 5:45 PM | 7:30 PM | Predict Math Success | Courses over time | Trouble-shooting errors
+02/02/2026 | 7:30 PM | 8:00 PM | Break ||
+02/02/2026 | 8:00 PM | 9:15 PM | Predict Math Success | Courses over time | Trouble-shooting errors
+02/03/2026 | 6:00 AM | 8:30 AM | Predict Math Success | Courses over time | Adjusting training model settings; training	
+02/03/2026 | 8:30 AM | 9:30 AM | Break ||
+02/03/2026 | 9:30 AM | 11:30 AM | Predict Math Success | Courses over time | Training; updating Jira; updating "course over time" report	
+02/03/2026 | 11:30 AM | 11:45 AM | Job Mngt | Computer crash | Re-starting computer; looks like the larger data set for courses means I should save and calculate derivatives
+02/03/2026 | 11:45 AM | 12:00 PM | Predict Math Success | Courses over time | Updating "course over time" report
+02/03/2026 | 12:00 PM | 1:00 PM | Break ||
+02/03/2026 | 1:00 PM | 2:30 PM| Job Mngt | Updating Jira |
+02/03/2026 | 2:30 PM | 5:15 PM | Break ||	
+02/03/2026 | 5:15 PM | 5:45 PM | Predict Math Success |	Courses over time | 
+02/04/2026 | 9:00 AM | 1:00 PM | Vacation | | Traveling
+02/04/2026 | 1:00 PM | 2:00 PM | Job Mngt |  UAIR Learning Hour | DARS
+02/04/2026 | 2:00 PM | 4:45 PM | Predict Math Success |	Courses over time; meeting prep; meeting |		   	
+02/05/2026 | 8:00 AM | 9:45 AM | Predict Math Success | Courses over time | per-course metrics and visualizations
+02/05/2026 | 9:45 AM | 10:30 AM | Break ||
+02/05/2026 | 10:30 AM | 12:30 PM | Predict Math Success | Courses over time | trouble-shooting knitting; comparing to prior report
+02/05/2026 | 12:30 PM | 1:00 PM | Break ||	
+02/05/2026 | 1:00 PM | 2:00 PM | Predict Math Success | Courses over time | Hypothesizing alternative explanations (choice of major, product mix, four buckets)	
+02/05/2026 | 2:00 PM | 4:30 PM | Job Mngt | Compiling weekly log for the last few weeks | modifying prep scripts for multiple weeks 	
+02/05/2026 | 4:30 PM | 5:45 PM | Break ||	
+02/05/2026 | 5:45 PM | 7:00 PM | Job Mngt | Compiling weekly log for the last few weeks | composing email for multiple weeks
+
+

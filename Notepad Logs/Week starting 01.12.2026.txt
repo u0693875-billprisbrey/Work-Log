@@ -1,0 +1,36 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+01/12/2026 | 9:00 AM  | 10:00 AM | Job Mngt  | Weekly log; daily planning | E-mails; review; weeky log; reboot 
+01/12/2026 | 10:00 AM  | 12:45 PM | Predict Math Success | Data prep and cleaning |	
+01/12/2026 | 12:45 PM  | 2:00 PM | Break ||	
+01/12/2026 | 2:00 PM  | 3:45 PM | Predict Math Success | Data prep and cleaning |
+01/12/2026 | 3:45 PM  | 7:30 PM | Break ||
+01/12/2026 | 7:30 PM  |	9:15 PM	| Predict Math Success | Data prep and cleaning; counterfactuals | 
+01/13/2026 | 8:15 AM  | 12:15 PM | Predict Math Success | Counterfactuals |
+01/13/2026 | 12:15 PM  | 1:30 PM | Break ||		
+01/13/2026 | 1:30 PM  | 2:00 PM | Predict Math Success | Counterfactuals |
+01/13/2026 | 2:00 PM  | 2:45 PM | Break ||		
+01/13/2026 | 2:45 PM  | 5:30 PM | Predict Math Success | Counterfactuals | prose almost complete; experimenting with Quarto
+01/13/2026 | 5:30 PM | 11:00 PM | Break || 
+01/13/2026 | 11:00 PM | 11:45 PM | Predict Math Success | Polishing graphics in Quarto |
+01/14/2026 | 8:15 AM  | 11:45 AM | Predict Math Success | Experimenting with Quarto; adding explanations; light modifications |
+01/14/2026 | 11:45 AM  | 1:15 PM | Break ||	
+01/14/2026 | 1:15 PM  | 2:30 PM | Predict Math Success | Experimenting with Quarto; light modifications |	
+01/14/2026 | 2:30 PM  | 3:15 PM | Job Mngt | Preparing for Jira training; reconciling with INFORMs JTA |	
+01/14/2026 | 3:15 PM  | 3:30 PM | Break ||
+01/14/2026 | 3:30 PM  | 5:15 PM | Job Mngt | Reviewing UAIR roles and responsibilities and HR salary levels | https://www.hr.utah.edu/comp/jobcodetable.php ; https://tableau.dashboard.utah.edu/t/HR/views/UCareerJobLibrary_17363523476210/JobCodeLibrary?%3Aembed=y&%3Aiid=1&%3AisGuestRedirectFromVizportal=y	
+01/15/2026 | 8:15 AM | 8:30 AM | Job Mngt | Daily planning |
+01/15/2026 | 8:30 AM | 12:00 PM | Job Mngt | Roles and responsibilities | Compiling and comparing available sources; musings		
+01/15/2026 | 12:00 PM  | 1:15 PM | Break || 
+01/15/2026 | 1:15 PM  | 2:00 PM | Job Mngt | Preparing for 1x1; reviewing docs |	
+01/15/2026 | 2:00 PM  | 2:45 PM | Job Mngt | Luis 1x1 |	
+01/15/2026 | 2:45 PM | 3:15 PM | Break ||	
+01/15/2026 | 3:15 PM | 5:15 PM | Job Mngt | Time sheet; completing assignments; fixing GitHub; writing career plan draft |  
+01/16/2026 | 8:15 AM | 8:30 AM | Job Mngt | Daily planning |
+01/16/2026 | 8:30 AM | 10:00 AM | Predict Math Success | Musing; reviewing; thinking | 	
+01/16/2026 | 10:00 AM | 11:00 AM | Job Mngt | Student Success | Whitney shares her retention analysis	
+01/16/2026 | 11:00 AM | 12:00 PM | Job Mngt | Jira training |
+01/16/2026 | 12:00 PM | 1:30 PM | Break || 
+01/16/2026 | 1:30 PM | 3:30 PM | Predict Math Success | Updating Jira; reviewing Mahalanobis distance |
+01/16/2026 | 3:30 PM | 4:30 PM | Break || 
+01/16/2026 | 4:30 PM | 5:15 PM | Predict Math Success | Experimenting with PCA |
+
