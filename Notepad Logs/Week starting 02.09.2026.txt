@@ -1,0 +1,94 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+02/09/2026 | 8:00 AM | 10:30 AM | Predict Math Success | Grades over time | Modifying report for vQ0 (using z-score distances) 
+02/09/2026 | 10:30 AM | 11:30 AM | Break ||
+02/09/2026 | 11:30 AM | 12:30 PM | Predict Math Success | Grades over time | Working on vQ0	
+02/09/2026 | 12:30 PM | 1:30 PM | Break ||  
+02/09/2026 | 1:30 PM | 3:30 PM | Predict Math Success | Grades over time | Working on vQ0
+02/09/2026 | 3:30 PM | 3:45 PM | Break || 
+02/09/2026 | 3:45 PM | 5:15 PM | Predict Math Success | Grades over time | reviewing old reports; comparing to new
+02/10/2026 | 8:15 AM | 11:00 AM | Predict Math Success | Grades over time | Determining elements that need clarification; which report does what 
+02/10/2026 | 11:00 AM | 11:45 AM | Break ||
+02/10/2026 | 11:45 AM | 4:15 PM | Predict Math Success | Grades over time; Predictors over time | Trouble-shooting visualizations; Adding new viz's 
+02/10/2026 | 4:15 PM | 4:30 PM | Break ||
+02/10/2026 | 4:30 PM | 5:15 PM | Predict Math Success | Predictors over time | Grade proportions over time  
+02/10/2026 | 5:15 PM | 9:00 PM | Break ||
+02/10/2026 | 9:00 PM | 9:45 PM | Predict Math Success | Predictors over time | Grade proportions over time; distances over time
+02/11/2026 | 8:00 AM | 12:30 PM | Predict Math Success | Predictors over time | Z-scores and distances over time 
+02/11/2026 | 12:30 PM | 1:00 PM | Break ||  
+02/11/2026 | 1:00 PM | 2:00 PM | Job Mngt | UAIR learning hour | 
+02/11/2026 | 2:00 PM | 2:30 PM | Predict Math Success | Quick check-in meeting 
+02/11/2026 | 2:30 PM | 3:30 PM | Break ||
+02/11/2026 | 3:30 PM | 5:30 PM | Predict Math Success | Courses and grades over time
+02/11/2026 | 5:30 PM | 9:00 PM | Break ||
+02/11/2026 | 9:00 PM | 10:30 PM | Predict Math Success | Courses and grades over time; Data prep document | Modifying text 
+02/12/2026 | 9:15 AM | 12:30 PM | Predict Math Success | Grades over time; Deep dive into vH4 |
+02/12/2026 | 12:30 PM | 1:30 PM | Break ||
+02/12/2026 | 1:30 PM | 2:30 PM | Predict Math Success | Check-in meeting |
+02/12/2026 | 2:30 PM | 3:00 PM | Job Mngt | Internal networking |	
+02/12/2026 | 3:00 PM | 3:15 PM | Break ||
+02/12/2026 | 3:15 PM | 5:15 PM | Predict Math Success | Deep dive into vH4 | Deleting text; removing 2025 from predictions
+02/12/2026 | 5:15 PM | 8:00 PM | Break ||
+02/12/2026 | 8:00 PM | 9:30 PM | Predict Math Success | Deep dive into vH4 | Re-ordering; finessing histogram visualization (instead of "hist" I should do plot(table) or a color-coded density))
+02/13/2026 | 8:00 AM | 12:00 PM | Predict Math Success | Summary and meeting | Writing summary; reviewing summary in meeting; outlining meta-summary; committing to Git 
+02/13/2026 | 12:00 PM | 12:30 PM | Job Mngt | Backing up laptop | 
+02/13/2026 | 12:30 PM | 1:15 PM | Travel | Getting laptop | 
+02/13/2026 | 1:15 PM | 2:00 PM | Job Mngt | New laptop | 
+
+
+
+
+
+Rec Center -- 
+
+1st Saturday of every month
+9am  No cost + quiz
+MARCH 7TH IS NEXT ONE!
+
+VALOR
+
+Programs:  
+  2 day  130   6:30 - 7:15, pick days best for schedule on Mon-Thurs 
+  3 day  160
+  4 day  175
+
+One-time enrollment fee + Uniform ($100)
+Gear and weapons added with progression	
+
+Sparring gear: $165 + tax (eventually)
+Then they slowly add weapons, $50 plus tax for bowstaff
+
+Championship Martial Arts? --> Freestyle, a lot of variety in training, and independently owned and operated (not a franchise) 
+Compete in tournaments, but not sure C.M.A competes there as far as what he knows.  Currently in class.
+
+Bring at 6:30pm and watch.  
+
+Also offer complimentary intro session, happy to help, done by app't and get on floor with an instructor.
+
+Emily  
+
+Championship Martial Arts
+
+$135 to $169/month
+Monday 8:00 - 8:40 
+Tuesday 7:50 - 8:30 
+
+Brendan	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+

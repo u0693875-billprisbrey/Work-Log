@@ -29,5 +29,11 @@ DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
 02/05/2026 | 2:00 PM | 4:30 PM | Job Mngt | Compiling weekly log for the last few weeks | modifying prep scripts for multiple weeks 	
 02/05/2026 | 4:30 PM | 5:45 PM | Break ||	
 02/05/2026 | 5:45 PM | 7:00 PM | Job Mngt | Compiling weekly log for the last few weeks | composing email for multiple weeks
+02/06/2026 | 8:00 AM | 11:00 AM | Job Mngt | Monthly log email; Luis 1x1; GrayDI training | 
+02/06/2026 | 11:00 AM | 12:30 PM | Break ||	
+02/06/2026 | 12:30 PM | 1:15 PM | Predict Math Success | Courses over time report |	
+02/06/2026 | 1:15 PM | 3:15 PM | Break || Parent-student conference	
+02/06/2026 | 3:15 PM | 5:30 PM | Predict Math Success | Courses over time report |		
+
 
 
