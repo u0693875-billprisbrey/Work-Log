@@ -32,47 +32,10 @@ DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
 02/13/2026 | 8:00 AM | 12:00 PM | Predict Math Success | Summary and meeting | Writing summary; reviewing summary in meeting; outlining meta-summary; committing to Git 
 02/13/2026 | 12:00 PM | 12:30 PM | Job Mngt | Backing up laptop | 
 02/13/2026 | 12:30 PM | 1:15 PM | Travel | Getting laptop | 
-02/13/2026 | 1:15 PM | 2:00 PM | Job Mngt | New laptop | 
+02/13/2026 | 1:15 PM | 4:30 PM | Job Mngt | New laptop | Setting up and double-checking software was slow 
+02/13/2026 | 4:30 PM | 5:15 PM | Travel | Return from picking up laptop 
+02/14/2026 | 4:00 PM | 6:00 PM | Job Mngt | Restoring projects on new laptop; installing packages; adjusting new laptop settings | Pulling projects from Github and data from Box drive; knitting reports; installing packages	
 
-
-
-
-
-Rec Center -- 
-
-1st Saturday of every month
-9am  No cost + quiz
-MARCH 7TH IS NEXT ONE!
-
-VALOR
-
-Programs:  
-  2 day  130   6:30 - 7:15, pick days best for schedule on Mon-Thurs 
-  3 day  160
-  4 day  175
-
-One-time enrollment fee + Uniform ($100)
-Gear and weapons added with progression	
-
-Sparring gear: $165 + tax (eventually)
-Then they slowly add weapons, $50 plus tax for bowstaff
-
-Championship Martial Arts? --> Freestyle, a lot of variety in training, and independently owned and operated (not a franchise) 
-Compete in tournaments, but not sure C.M.A competes there as far as what he knows.  Currently in class.
-
-Bring at 6:30pm and watch.  
-
-Also offer complimentary intro session, happy to help, done by app't and get on floor with an instructor.
-
-Emily  
-
-Championship Martial Arts
-
-$135 to $169/month
-Monday 8:00 - 8:40 
-Tuesday 7:50 - 8:30 
-
-Brendan	
 
 
 
