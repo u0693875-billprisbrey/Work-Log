@@ -35,7 +35,7 @@ if(any(pipe_counts > 0 & pipe_counts < 5 )|any(pipe_counts > 5)) {
   stop(
     
     paste(
-      "Pipe count error:\n",
+      "Pipe count error (should be five pipes):\n",
     paste(lines[which(pipe_counts != 5)], collapse = "\n")
     )
     

@@ -1,8 +1,33 @@
 DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
-02/16/2026 | 8:00 AM | 5:00 PM | Holiday | | President's Day	
-02/17/2026 | 8:15 AM | 8:30 AM | Job Mngt | Daily planning; laptop settings  
-02/17/2026 | 8:30 AM | 10:00 AM | Predict Math Success | Reviewing reports; outlining summary documents	
+02/16/2026 | 9:00 AM | 5:00 PM | Holiday | | President's Day	
+02/17/2026 | 8:15 AM | 8:30 AM | Job Mngt | Daily planning; laptop settings | 
+02/17/2026 | 8:30 AM | 10:00 AM | Predict Math Success | Reviewing reports; outlining summary documents |	
 02/17/2026 | 10:00 AM | 10:15 AM | Break ||
-02/17/2026 | 10:15 AM | 11:15 AM | Predict Math Success | Writing mental drafts   
+02/17/2026 | 10:15 AM | 11:15 AM | Predict Math Success | Writing mental drafts |   
 02/17/2026 | 11:15 AM | 12:00 PM | Job Mngt | Work log | Pulling from Github; updating; trouble-shooting and commiting to Github
-02/17/2026 | 12:00 PM | 12:15 PM | Predict Math Success |   
+02/17/2026 | 12:00 PM | 3:00 PM | Predict Math Success | Project overview |
+02/17/2026 | 3:00 PM | 3:15 PM | Break ||   
+02/17/2026 | 3:15 PM | 5:15 PM | Predict Math Success | Project overview | Initial version sent	
+02/18/2026 | 9:00 AM | 9:45 AM | Predict Math Success | Project overview | Rendering visualizations in new laptop; version control issue discovered
+02/18/2026 | 9:45 AM | 10:15 AM | Break ||	
+02/18/2026 | 10:15 AM | 1:00 PM | Predict Math Success |  Project overview | Researching version control issues; working in old laptop
+02/18/2026 | 1:00 PM | 2:00 PM | Job Mngt | UAIR learning hour | New schemas
+02/18/2026 | 2:00 PM | 3:00 PM | Break ||Shoveled snow
+02/18/2026 | 3:00 PM | 4:00 PM | Predict Math Success | Project Overview | Working on old laptop   
+02/18/2026 | 4:00 PM | 4:45 PM | Job Mngt | Computer crash |
+02/18/2026 | 4:45 PM | 7:00 PM | Break ||
+02/18/2026 | 7:00 PM | 9:00 PM | Predict Math Success | Project Overview | Saving objects in old environment 
+02/19/2026 | 8:15 AM | 11:00 AM | Predict Math Success | Project Overview | Rendering in new env't; some text changes 	
+02/19/2026 | 11:00 AM | 12:00 PM | Break ||	
+02/19/2026 | 12:00 PM | 1:45 PM | Predict Math Success | Project Overview | Extracting "xgboost" objects from "caret" objects in over time models
+02/19/2026 | 1:45 PM | 2:30 PM | Break ||	
+02/19/2026 | 2:30 PM | 5:30 PM | Predict Math Success | Project Overview | Pushing and pulling to Git; Kappa visualization	
+02/20/2026 | 8:15 AM | 10:00 AM | Predict Math Success | Project Overview | Plain language summary; text modifications
+02/20/2026 | 10:00 AM | 10:45 AM | Job Mngt | Academic Data Team Meeting | SI analysis
+02/20/2026 | 10:45 AM | 11:00 AM | Break ||	
+02/20/2026 | 11:00 AM | 12:00 PM | Job Mngt | Internal Networking | 
+02/20/2026 | 12:00 PM | 1:00 PM | Break || 
+02/20/2026 | 1:00 PM | 3:30 PM | Predict Math Success | Project Overview | Polishing like modifying visualization formats; replacing placeholder values with actual values
+02/20/2026 | 3:30 PM | 3:45 PM | Break ||	
+02/20/2026 | 3:45 PM | 4:30 PM | Predict Math Success | Project Overview | Rendering to Word and PDF	
+02/20/2026 | 4:30 PM | 5:30 PM | Predict Math Success | Project Overview | Committing to Git (extremely time consuming for some reason) 

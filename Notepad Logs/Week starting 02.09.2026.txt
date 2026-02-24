@@ -16,9 +16,9 @@ DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
 02/11/2026 | 8:00 AM | 12:30 PM | Predict Math Success | Predictors over time | Z-scores and distances over time 
 02/11/2026 | 12:30 PM | 1:00 PM | Break ||  
 02/11/2026 | 1:00 PM | 2:00 PM | Job Mngt | UAIR learning hour | 
-02/11/2026 | 2:00 PM | 2:30 PM | Predict Math Success | Quick check-in meeting 
+02/11/2026 | 2:00 PM | 2:30 PM | Predict Math Success | Quick check-in meeting | 
 02/11/2026 | 2:30 PM | 3:30 PM | Break ||
-02/11/2026 | 3:30 PM | 5:30 PM | Predict Math Success | Courses and grades over time
+02/11/2026 | 3:30 PM | 5:30 PM | Predict Math Success | Courses and grades over time |
 02/11/2026 | 5:30 PM | 9:00 PM | Break ||
 02/11/2026 | 9:00 PM | 10:30 PM | Predict Math Success | Courses and grades over time; Data prep document | Modifying text 
 02/12/2026 | 9:15 AM | 12:30 PM | Predict Math Success | Grades over time; Deep dive into vH4 |
@@ -33,25 +33,5 @@ DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
 02/13/2026 | 12:00 PM | 12:30 PM | Job Mngt | Backing up laptop | 
 02/13/2026 | 12:30 PM | 1:15 PM | Travel | Getting laptop | 
 02/13/2026 | 1:15 PM | 4:30 PM | Job Mngt | New laptop | Setting up and double-checking software was slow 
-02/13/2026 | 4:30 PM | 5:15 PM | Travel | Return from picking up laptop 
+02/13/2026 | 4:30 PM | 5:15 PM | Travel | Return from picking up laptop |
 02/14/2026 | 4:00 PM | 6:00 PM | Job Mngt | Restoring projects on new laptop; installing packages; adjusting new laptop settings | Pulling projects from Github and data from Box drive; knitting reports; installing packages	
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
