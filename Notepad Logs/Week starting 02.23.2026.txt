@@ -1,6 +1,32 @@
 DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
-02/23/2026 | 8:15 AM  | 12:00 PM  | Predict Math Success | Writing new outline; Committing to Git; Meeting; Re-writing old time series analysis
+02/23/2026 | 8:15 AM  | 12:00 PM  | Predict Math Success | Writing new outline; Committing to Git; Meeting; Re-writing old time series analysis |
 02/23/2026 | 12:00 PM  | 1:15 PM  | Break || 
-02/23/2026 | 1:15 PM  | 3:00 PM  | Predict Math Success | Adjustments to one page summary; Writing "Predict Math" project overview; attempting re-write of old time series analysis
+02/23/2026 | 1:15 PM  | 3:00 PM  | Predict Math Success | Adjustments to one page summary; Writing "Predict Math" project overview; attempting re-write of old time series analysis|
 02/23/2026 | 3:00 PM  | 3:15 PM  | Break || 
-02/23/2026 | 3:15 PM  | 5:45 PM  | Predict Math Success | Writing "Predict Math" project overview; committing to Git	 
+02/23/2026 | 3:15 PM  | 5:45 PM  | Predict Math Success | Writing "Predict Math" project overview; Rendering; committing to Git	 |
+02/24/2026 | 9:00 AM | 11:15 AM | Job Mngt | Updating log and Jira | 
+02/24/2026 | 11:15 AM | 11:45 AM | Predict Math Success | Meeting | Working with Whitney to combine documents	
+02/24/2026 | 11:45 AM | 1:00 PM | Break ||
+02/24/2026 | 1:00 PM | 2:30 PM | Job Mngt | Weekly log emails | 
+02/24/2026 | 2:30 PM | 3:15 PM | PI Turnover | Checking in with Brian Gelsinger on snapshot query; writing up notes | 
+02/24/2026 | 3:15 PM | 3:30 PM | Break ||
+02/24/2026 | 3:30 PM | 3:45 PM | Job Mngt | Committing weekly log to Git |
+02/24/2026 | 3:45 PM | 5:15 PM | Predict Math Success | Updating reports and adding to appendix | Trouble-shooting rendering to Word; Cleaning and Predictors over Time docs added to appendix	
+02/25/2026 | 8:15 AM | 9:45 AM | Predict Math Success | Updating "Grade decision trees over time" |  Working with xg.Booster class
+02/25/2026 | 9:45 AM | 10:15 AM | Break ||	
+02/25/2026 | 10:15 AM | 12:15 PM | Predict Math Success | Attempted to render vH4 in new env't as vH5; switched to old version | Plan is to at least render the docx on the old version to complete report 
+02/25/2026 | 12:15 PM | 1:30 PM | Break ||
+02/25/2026 | 1:30 PM | 2:00 PM | Job Mngt | UAIR learning hour | Joined late	
+02/25/2026 | 2:00 PM | 5:15 PM | Predict Math Success | Rendering "grades over time" to Word | Created base R versions of plotly with conditional logic; committed to Git, added to existing 	
+02/26/2026 | 8:00 AM | 11:30 AM | Predict Math Success | Adding "Principal Component Analysis", rendering Withdraw report | Making "Withdraw" Word friendly was exasperating; commi
+02/26/2026 | 11:30 AM | 12:30 PM | Break ||
+02/26/2026 | 12:30 PM | 4:00 PM | Predict Math Success | Deep dive into vH4 | Graphics in right order in Quarto 
+02/26/2026 | 4:00 PM | 4:15 PM | Break ||
+02/26/2026 | 4:15 PM | 4:45 PM | Predict Math Success | Deep dive into vH4 | Graphics in right order in Quarto; adding yr_diff density plot
+02/27/2026 | 9:00 AM | 9:30 AM | Job Mngt | Re-booting computers; email; Teams issue |
+02/27/2026 | 9:30 AM | 12:00 PM | Predict Math Success | Deep dive into vH4 | Adding text (most copied over)
+02/27/2026 | 12:00 PM | 1:00 PM | Break ||
+02/27/2026 | 1:00 PM | 2:15 PM | Predict Math Success | Deep dive into vH4 | Polishing; Rendering into diff't formats (Word); committing to Git
+02/27/2026 | 2:15 PM | 2:30 PM | Break ||
+02/27/2026 | 2:30 PM | 5:00 PM | Predict Math Success | Deep dive into vH4 | Rendering into diff't formats (GHM, PDF); committing to Git; unexpectedly time-consuming 
+02/28/2026 | 8:30 AM | 9:45 AM | Predict Math Success | Deep dive into vH4 | Pulling from Git into new computer; adding to report; formatting headings

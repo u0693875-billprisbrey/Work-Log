@@ -1,0 +1,5 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+03/02/2026 | 8:45 AM  | 9:30 AM  | Job Mngt | Emails; review; daily planning |
+03/02/2026 | 9:30 AM  | 11:00 AM | Predict Math Success | Formatting of overall report | Done!
+03/02/2026 | 11:00 AM | 12:00 PM | Break ||	
+03/02/2026 | 12:00 PM | 1:00 PM | Job Mngt | Weekly report; updating Jira
