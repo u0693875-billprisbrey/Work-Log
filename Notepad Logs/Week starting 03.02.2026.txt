@@ -2,4 +2,42 @@ DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
 03/02/2026 | 8:45 AM  | 9:30 AM  | Job Mngt | Emails; review; daily planning |
 03/02/2026 | 9:30 AM  | 11:00 AM | Predict Math Success | Formatting of overall report | Done!
 03/02/2026 | 11:00 AM | 12:00 PM | Break ||	
-03/02/2026 | 12:00 PM | 1:00 PM | Job Mngt | Weekly report; updating Jira
+03/02/2026 | 12:00 PM | 2:30 PM | Job Mngt | Weekly report; updating Jira; closing old Jira projects |	
+03/02/2026 | 2:30 PM | 2:45 PM | Break || 
+03/02/2026 | 2:45 PM | 5:00 PM | Job Mngt | Moving projects over | Lots of "Hurry up and wait"; "Individual Journey App" is all there but the SQL Connection no longer works; reviewing PI turnover status in order to write a concluding document	 	  
+03/02/2026 | 5:00 PM | 5:15 PM | Travel || to park
+03/02/2026 | 5:15 PM | 6:00 PM | Fitness Challenge | Walking | In the rain from Twin Hollows Park (Bountiful)
+03/03/2026 | 9:45 AM | 11:30 AM | Job Mngt | Emails; daily planning; updating Jira (including closing old issues) |
+03/03/2026 | 11:30 AM | 12:15 PM | Gray DI | Learning about Gray DI | Setting up account; logging in; inspecting reports; researching skeptical perspectives 
+03/03/2026 | 12:15 PM | 12:45 PM | Break ||
+03/03/2026 | 12:45 PM | 5:00 PM | Gray DI | Learning about Gray DI | Watching "February Higher Education Demand Trends Webinar: Results Through January 2026"; notes; writing up thoughts; exploring website 
+03/03/2026 | 5:00 PM | 5:30 PM | Job Mngt | McNamara Fallacy and the "QUASI" framework |	
+03/03/2026 | 5:30 PM | 6:00 PM | Break ||
+03/03/2026 | 6:00 PM | 6:30 PM | Fitness Challenge | Walking |  from Twin Hollows Park (Bountiful)
+03/04/2026 | 8:45 AM | 10:15 AM | Job Mngt | Addressing fallacies | "QUASI" framework
+03/04/2026 | 10:15 AM | 1:00 PM | Break ||Bolder Way Forward presentation
+03/04/2026 | 1:00 PM | 1:45 PM | Job Mngt | UAIR Learning Hour | Truth in Tuition
+03/04/2026 | 1:45 PM | 2:45 PM | Break ||Return travel	
+03/04/2026 | 2:45 PM | 4:45 PM | Predict Math Success | Phase One Report | Luis' feedback
+03/05/2026 | 9:00 AM | 12:00 PM | Predict Math Success | Phase One Report | Luis' feedback
+03/05/2026 | 12:00 PM | 1:00 PM | Break ||
+03/05/2026 | 1:00 PM | 4:00 PM | Job Mngt | Resolving GitHub and One Drive conflict | Saved ppt ("Make it Punchy" or "QUASI-useful analyses") to OneDrive by mistake; turns out synching OneDrive conflicts with GitHub; resolving included deleting and re-synching projects 
+03/05/2026 | 4:00 PM | 5:15 PM | Job Mngt | Luis 1x1 | Meeting prep included 
+03/05/2026 | 5:15 PM | 6:45 PM | Break ||
+03/05/2026 | 6:45 PM | 7:30 PM | Fitness Challenge | Walking |  from Twin Hollows Park (Bountiful)
+03/06/2026 | 7:30 AM | 7:45 AM | Fitness Challenge | Walking | from house
+03/06/2026 | 7:45 AM | 8:00 AM | Break ||
+03/06/2026 | 8:00 AM | 8:30 AM | Job Mngt | Daily planning |
+03/06/2026 | 8:30 AM | 9:00 AM | Travel ||To UAIR Coffee
+03/06/2026 | 9:00 AM | 10:00 AM | Job Mngt | Internal Networking | UAIR Coffee
+03/06/2026 | 10:00 AM | 10:30 AM | Travel || From UAIR Coffee
+03/06/2026 | 10:30 AM | 12:15 PM | Prof Dev | Studying new workflow using "tidyverse", "tidymodels" and "xgboost" | 
+03/06/2026 | 12:15 PM | 12:30 PM | Break ||
+03/06/2026 | 12:30 PM | 2:00 PM | Prof Dev | Studying new workflow using "tidyverse", "tidymodels" and "xgboost" |
+03/06/2026 | 2:00 PM | 3:15 PM | Break ||
+03/06/2026 | 3:15 PM | 5:15 PM | Prof Dev | Studying new workflow using "tidyverse", "tidymodels" and "xgboost" |
+03/07/2026 | 11:30 AM | 11:45 AM | Fitness Challenge | Walking | to work with daughter
+03/07/2026 | 11:45 AM | 3:15 PM | Break||
+03/07/2026 | 3:15 PM | 4:00 PM | Fitness Challenge | Walking | around block
+03/07/2026 | 4:00 PM | 5:45 PM | Break||
+03/07/2026 | 5:45 PM | 8:15 PM | Prof Dev | Studying new workflow using "tidyverse", "tidymodels" and "xgboost" |

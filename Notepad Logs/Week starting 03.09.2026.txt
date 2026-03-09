@@ -1,0 +1,10 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+03/09/2026 | 8:45 AM  | 9:00 AM  | Fitness Challenge | Walking |  from house
+03/09/2026 | 9:00 AM | 11:15 AM | Job Mngt  | Planning; emails; GitHub conflict | Seem to have resolved the GitHub/OneDrive synch problem 
+03/09/2026 | 11:15 AM | 11:30 AM | Break ||
+03/09/2026 | 11:30 AM  | 12:30 PM | Job Mngt | Weekly log | Recovering the weekly log and updating it
+03/09/2026 | 12:30 PM | 1:30 PM | Break || 
+03/09/2026 | 1:30 PM  | 2:45 PM | Job Mngt | Weekly log | 	
+03/09/2026 | 2:45 PM | 3:00 PM | Break || 
+03/09/2026 | 3:00 PM  | 3:30 PM | Job Mngt | Jira | 
+03/09/2026
