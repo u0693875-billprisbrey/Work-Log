@@ -6,5 +6,38 @@ DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
 03/09/2026 | 12:30 PM | 1:30 PM | Break || 
 03/09/2026 | 1:30 PM  | 2:45 PM | Job Mngt | Weekly log | 	
 03/09/2026 | 2:45 PM | 3:00 PM | Break || 
-03/09/2026 | 3:00 PM  | 3:30 PM | Job Mngt | Jira | 
-03/09/2026
+03/09/2026 | 3:00 PM  | 3:45 PM | Job Mngt | Jira | Closing "Epic" and creating an identical "story"; creating new "predict student completion"	  
+03/09/2026 | 3:45 PM |  4:45 PM | Gray DI | Initial impressions | Outline 
+03/09/2026 | 4:45 PM | 7:00 PM | Break ||	
+03/09/2026 | 7:00 PM | 8:30 PM | Prof Dev | New workflow | "purrr" package and nested lists	 
+03/10/2026 | 9:30 AM | 10:15 AM | Travel || Computer service; picking up docking station
+03/10/2026 | 10:15 AM | 11:15 AM | Job Mngt | Computer service | New computer serviced to improve performance; picking up docking station
+03/10/2026 | 11:15 AM | 11:45 AM | Travel || Return from computer service 
+03/10/2026 | 11:45 AM | 12:30 PM | Break ||
+03/10/2026 | 12:30 PM | 5:15 PM | Prof Dev | New workflow | tidyverse vs base R; caret vs tidymodels 
+03/11/2026 | 8:00 AM | 8:30 AM | Job Mngt | Daily planning |  
+03/11/2026 | 8:30 AM | 11:00 AM | Prof Dev  | New workflow | Reviewing "xgboost" documentation
+03/11/2026 | 11:00 AM | 11:45 AM | Predict Math Success | Resolving Git pull problems |  
+03/11/2026 | 11:45 AM | 12:15 PM | Job Mngt | Oracle client problems | Won't connect; opening a ticket	
+03/11/2026 | 12:15 PM | 1:00 PM | Break ||
+03/11/2026 | 1:00 PM | 2:00 PM | Job Mngt | UAIR learning hour | "Highlights" dashboards  
+03/11/2026 | 2:00 PM | 3:15 PM | Job Mngt | Trouble-shooting Oracle client |
+03/11/2026 | 3:15 PM | 4:00 PM | Predict Math Success | Draft 4 Project Summary | Adding "variables" appendix
+03/11/2026 | 4:00 PM | 5:15 PM | Prof Dev | Tidymodels and xgboost |
+03/12/2026 | 9:00 AM | 9:30 AM | Job Mngt | Daily planning; emails |
+03/12/2026 | 9:30 AM | 11:30 AM | Break || Tour of charter school 
+03/12/2026 | 11:30 AM | 12:15 PM | Prof Dev | Reviewing ML books |
+03/12/2026 | 12:15 PM | 1:00 PM | Break ||
+03/12/2026 | 1:00 PM | 2:30 PM | Prof Dev | Reviewing ML books |	
+03/12/2026 | 2:30 PM | 3:15 PM | Job Mngt | Campus compliance courses  |
+03/12/2026 | 3:15 PM | 3:30 PM | Break || 
+03/12/2026 | 3:30 PM | 4:00 PM | Job Mngt | Enabling correct Oracle client | 
+03/12/2026 | 4:00 PM | 5:00 PM | Prof Dev | New workflow | "rsample" package  
+03/13/2026 | 8:00 AM | 8:15 AM  | Job Mngt | Daily planning |
+03/13/2026 | 8:15 AM | 12:45 PM | Prof Dev | New workflow | "xgboost" package  
+03/13/2026 | 12:45 PM | 1:00 PM | Break ||	
+03/13/2026 | 1:00 PM | 2:00 PM | Gray DI | Monthly Meeting | 
+03/13/2026 | 2:00 PM | 2:15 PM | Break || 	
+03/13/2026 | 2:15 PM | 5:15 PM | Prof Dev | New workflow | SHAP ("shapviz") with xgboost; CatBoost	 
+03/13/2026 | 5:15 PM | 7:45 PM | Break ||
+03/13/2026 | 7:45 PM | 9:00 PM | Prof Dev | New workflow | cross-validation with xgboost package; Bayesian optimization 
