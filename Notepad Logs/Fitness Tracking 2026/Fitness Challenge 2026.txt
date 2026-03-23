@@ -1,0 +1,11 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+03/16/2026 | 5:45 PM  | 6:00 PM  | Fitness Challenge | Outside | taking call from backyard porch	
+03/17/2026 | 8:45 AM  | 9:00 AM  | Fitness Challenge | Walking | from house	
+03/18/2026 | 12:10 PM | 12:40 PM | Fitness Challenge | Walking | from house 
+03/19/2026 | 5:15 PM | 5:30 PM | Fitness Challenge | Walking | from house
+03/20/2026 | 12:30 | 12:45 | Fitness Challenge | Walking; Outside | To bus stop
+03/20/2026 | 1:10 | 1:30 | Fitness Challenge | Walking | Bus top to destination
+03/21/2026 | 1:45 | 2:00 PM | Fitness Challenge | Walking | Rec center warm-up
+
+
+  

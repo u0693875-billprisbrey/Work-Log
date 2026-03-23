@@ -269,7 +269,7 @@ strippedCategories <-
 
 if(length(updatedCategories) != length(strippedCategories)){
   print(
-    "White space error; manually inspect and correct."
+    "White space inconsistency in 'CATEGORY' values; manually inspect and correct."
   )
   
 }
