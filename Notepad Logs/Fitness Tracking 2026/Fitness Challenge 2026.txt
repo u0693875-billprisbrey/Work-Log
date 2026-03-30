@@ -6,6 +6,15 @@ DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
 03/20/2026 | 12:30 | 12:45 | Fitness Challenge | Walking; Outside | To bus stop
 03/20/2026 | 1:10 | 1:30 | Fitness Challenge | Walking | Bus top to destination
 03/21/2026 | 1:45 | 2:00 PM | Fitness Challenge | Walking | Rec center warm-up
+03/23/2026 | 11:00 AM | 11:20 AM | Fitness Challenge | Walking | from house
+03/24/2026 | 1:45 PM | 2:00 PM | Fitness Challenge | Walking | from house to appt	
+03/24/2026 | 2:00 PM | 3:15 PM | Fitness Challenge | Walking | from appt to house	
+03/26/2026 | 4:30 PM | 4:45 PM | Fitness Challenge | Walking | Rec center warm-up 
+03/27/2026 | 6:00 PM | 6:45 PM | Fitness Challenge | Picnic; Walking | 30min walk at park
+03/28/2026 | 11:00 AM | 11:45 AM | Fitness Challenge | Yard Work | Unloading mulch
+03/28/2026 |  2:30 PM | 5:30 PM | Fitness Challenge | Yard Work | Unloading and distributing mulch
+ 	
 
 
+ 
   

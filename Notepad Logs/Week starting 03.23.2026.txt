@@ -1,0 +1,40 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+03/23/2026 | 8:00 AM  | 10:45 AM | Job Mngt | daily planning; weekly log; Computer re-boot |
+03/23/2026 | 10:45 AM | 12:30 PM | Break ||	
+03/23/2026 | 12:30 PM | 2:00 PM  | Predict Math Success | Model graphic |  
+03/23/2026 | 2:00 PM  | 5:00 PM  | Sick || Child dr's appointment	
+03/24/2026 | 8:15 AM  | 8:45 AM  | Job Mngt | Daily planning; internal networking |
+03/24/2026 | 8:45 AM  | 10:00 AM | Predict Math Success | Model graphic |
+03/24/2026 | 10:00 AM | 10:15 AM | Break || 
+03/24/2026 | 10:15 AM  | 11:15 AM | Predict Math Success | Model graphic |
+03/24/2026 | 11:15 AM  | 1:30 PM | Gray DI | Master's Series; Notes; thinking | Hard to follow
+03/24/2026 | 1:30 PM | 3:30 PM | Sick || Child's counseling app't
+03/24/2026 | 3:30 PM | 4:30 PM | Gray DI | Program proposal | 
+03/25/2026 | 8:45 AM | 9:15 AM | Job Mngt | Daily planning; updating log |
+03/25/2026 | 9:15 AM | 10:45 AM | Gray DI | Reviewing notes and writing up report |
+03/25/2026 | 10:45 AM | 11:00 AM | Break || 
+03/25/2026 | 11:00 AM | 12:15 PM | Gray DI | Reviewing notes and writing up report | 
+03/25/2026 | 12:15 PM | 1:00 PM | Break || 
+03/25/2026 | 1:00 PM | 2:00 PM | Job Mngt | UAIR staff meeting | Engr and architecture roles
+03/25/2026 | 2:00 PM | 3:00 PM | Gray DI | Bi-weekly office hours |
+03/25/2026 | 3:00 PM | 3:30 PM | Predict Math Success | Model graphic; commit to Git | Sneak Preview graphic added to presentation  
+03/25/2026 | 3:30 PM | 4:45 PM | Gray DI | Creating GitHub project; reviewing notes |
+03/25/2026 | 4:45 PM | 5:00 PM | Break || 
+03/25/2026 | 5:00 PM | 6:00 PM | Gray DI | Exploring data export options |
+03/25/2026 | 6:00 PM | 7:30 PM | Break || 
+03/25/2026 | 7:30 PM | 8:00 PM | Predict Math Success | xgboost | Bayesian optimization on a data subset 
+03/26/2026 | 8:15 AM | 12:45 PM | Predict Math Success | xgboost | Trouble-shooting Bayesian optimization
+03/26/2026 | 12:45 PM | 1:15 PM | Break || 
+03/26/2026 | 1:15 PM | 3:45 PM | Predict Math Success | xgboost | Evaluating model; writing deep dive;
+03/26/2026 | 3:45 PM | 5:00 PM | Break ||
+03/27/2026 | 9:00 AM | 11:15 AM | Predict Math Success | xgboost | Writing deep dive
+03/27/2026 | 11:15 AM | 12:45 PM | Break || 
+03/27/2026 | 12:45 PM | 1:00 PM | Predict Math Success | xgboost |
+03/27/2026 | 1:00 PM | 1:45 PM | Job Mngt | UAIR Meeting | Monthly DARS data discussion 
+03/27/2026 | 1:45 PM | 2:30 PM | Gray DI | Summarizing notes|
+03/27/2026 | 2:30 PM | 3:00 PM | Job Mngt | Meeting Prep |
+03/27/2026 | 3:00 PM | 3:30 PM | Job Mngt | Luis 1x1 |
+03/27/2026 | 3:30 PM | 3:45 PM | Break ||
+03/27/2026 | 3:45 PM | 6:00 PM | Predict Math Success | xgboost | deep dive results  
+
+
