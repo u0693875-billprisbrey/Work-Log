@@ -20,7 +20,7 @@ body_text <-
     "
     Hi Luis,
     
-    Here is a summary of time spent on projects last week, assignments, discussion items, and possible next steps.
+    Here is a summary of time spent on projects in last week, assignments, discussion items, and possible next steps.
     
     Projects worked on:
     

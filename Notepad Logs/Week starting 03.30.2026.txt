@@ -1,0 +1,36 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+03/30/2026 | 9:00 AM  | 10:00 AM | Break || Late start	
+03/30/2026 | 10:00 AM | 10:45 AM | Job Mngt | Daily planning; review notes from prior week |
+03/30/2026 | 10:45 AM | 11:00 AM | Break ||
+03/30/2026 | 11:00 AM | 11:30 AM | Job Mngt | Updating My Time with sick hours and requesting vacation time |	
+03/30/2026 | 11:30 AM | 12:30 PM | Break || 
+03/30/2026 | 12:30 PM | 3:30 PM | Job Mngt | Weekly log | 
+03/30/2026 | 3:30 PM | 4:00 PM | Break || 
+03/30/2026 | 4:00 PM | 5:15 PM | Predict Math Success | xgboost | Re-training to improve accuracy at low end
+03/30/2026 | 5:15 PM | 9:45 PM | Break || 
+03/30/2026 | 9:45 PM | 10:45 PM | Predict Math Success | xgboost | reviewing results; setting up overnight run with expanded data and parameter bounds 
+03/31/2026 | 8:45 AM | 10:15 AM | Predict Math Success | xgboost | reviewing results from overnight optimization; setting up next run
+03/31/2026 | 10:15 AM | 11:30 AM | Break ||	
+03/31/2026 | 11:30 AM | 11:45 AM | Predict Math Success | xgboost | committing to Git
+03/31/2026 | 11:45 AM | 12:00 PM | Job Mngt | Support ticket | Investigating overnight auto-reboot 
+03/31/2026 | 12:00 PM | 1:30 PM | Gray DI | Master's training series; note write-up | "Program remix" is the best one 
+03/31/2026 | 1:30 PM | 2:30 PM | Break || Scheduling E's intake; bizarrely complicated and time-consuming portal	
+03/31/2026 | 2:30 PM | 5:15 PM | Explore Completion Predictors | Created project; Reviewed OBIA data; trial queries; brainstorm	|
+03/31/2026 | 5:15 PM | 8:45 PM | Break ||
+03/31/2026 | 8:45 PM | 9:45 PM | Explore Completion Predictors | examining degrees data set |	
+03/31/2026 | 9:45 PM | 10:00 PM | Predict Math Success | xgboost |Re-training overnight with adjusted parameter bounds 
+04/01/2026 | 8:15 AM | 11:15 AM |  Predict Math Success | xgboost | Deep dive report; comparing models 
+04/01/2026 | 11:15 AM | 12:30 PM | Break ||	
+04/01/2026 | 12:30 PM | 1:00 PM | Explore Completion Predictors | Query set-up |
+04/01/2026 | 1:00 PM | 2:00 PM | Job Mngt | UAIR Learning Hour | Brian Harris and Tableau connectors	
+04/01/2026 | 2:00 PM | 4:30 PM | Explore Completion Predictors | column by column inspection and selection |
+04/02/2026 | 8:45 AM | 9:15 AM | Explore Completion Predictors | setting up report; committing to Git |
+04/02/2026 | 9:15 AM | 9:30 AM | Job Mngt | Daily planning; emails; updating log |
+04/02/2026 | 9:30 AM | 11:45 AM | Explore Completion Predictors | column selection report | honestly over-doing it but the similarities and differences are interesting
+04/02/2026 | 11:45 AM | 1:15 PM | Break ||	
+04/02/2026 | 1:15 PM | 5:15 PM | Explore Completion Predictors | column selection report | 
+04/03/2026 | 9:00 AM | 5:00 PM | Vacation ||
+
+
+
+

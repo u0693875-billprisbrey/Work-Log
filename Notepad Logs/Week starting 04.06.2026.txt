@@ -1,0 +1,42 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+04/06/2026 | 8:30 AM  | 10:00 AM | Job Mngt | Daily planning; emails; re-boot; IT help on auto-reboot | Hunter turned off all auto-reboots and showed me where to adjust ahead of a long run
+04/06/2026 | 10:00 AM | 10:45 AM | Explore Completion Predictors | Extracting base awards |	
+04/06/2026 | 10:45 AM | 11:00 AM | Break ||
+04/06/2026 | 11:00 AM | 12:00 PM | Explore Completion Predictors | Extracting base awards |
+04/06/2026 | 12:00 PM | 1:30 PM | Break ||
+04/06/2026 | 1:30 PM | 3:30 PM  | Explore Completion Predictors | Extracting base awards |
+04/06/2026 | 3:30 PM | 3:45 PM | Break ||
+04/06/2026 | 3:45 PM | 4:45 PM | Job Mngt | Weekly log | This is really getting out of hand how time consuming this is
+04/06/2026 | 4:45 PM | 6:45 PM | Break ||
+04/06/2026 | 6:45 PM | 7:30 PM | Explore Completion Predictors | column selection report |
+04/06/2026 | 7:30 PM | 9:00 PM | Break ||
+04/06/2026 | 9:00 PM | 10:15 PM | Explore Completion Predictors | column selection report |
+04/07/2026 | 8:30 AM | 9:00 AM | Job Mngt | Daily Planning |
+04/07/2026 | 9:00 AM | 9:15 AM | Break ||
+04/07/2026 | 9:15 AM | 10:15 AM | Explore Completion Predictors | column selection report |
+04/07/2026 | 10:15 AM | 10:45 AM | Job Mngt | Updating Jira | 
+04/07/2026 | 10:45 AM | 12:00 PM | Explore Completion Predictors | column selection report |
+04/07/2026 | 12:00 PM | 1:00 PM | Gray DI | Master's series |
+04/07/2026 |  1:00 PM | 1:30 PM | Break || 15min walk
+04/07/2026 |  1:30 PM | 5:30 PM | Explore Completion Predictors | column selection report; new query |
+04/08/2026 | 7:45 AM | 8:45 AM | Explore Completion Predictors | column selection report; reviewing new query results |  
+04/08/2026 | 8:45 AM | 10:45 AM | Break || Brooklyn's presentation at Weber State
+04/08/2026 | 10:45 AM | 11:30 AM | Prof Dev | ellmer | Agentic AI
+04/08/2026 | 11:30 AM | 1:00 PM | Explore Completion Predictors | investigating keys; duplicates; querying un-selected columns |	
+04/08/2026 | 1:00 PM | 1:45 PM | Job Mngt | UAIR Learning Hour | School of Dentistry student survey feedback	
+04/08/2026 | 1:45 PM | 2:15 PM | Break || 
+04/08/2026 | 2:15 PM | 5:45 PM | Explore Completion Predictors | Querying course data; developing approach |
+04/09/2026 | 8:15 AM | 10:00 AM | Explore Completion Predictors | Review query results; compare to graduation data; column selection report |
+04/09/2026 | 10:00 AM | 10:15 AM | Break ||
+04/09/2026 | 10:15 AM | 1:15 PM | Explore Completion Predictors | Review query results; compare to graduation data; column selection report |
+04/09/2026 | 1:15 PM | 2:00 PM | Break ||
+04/09/2026 | 2:00 PM | 4:00 PM | Explore Completion Predictors | Column selection report | redundancies in course demo database	
+04/10/2026 | 8:00 AM | 9:30 AM | Break || External networking
+04/10/2026 | 9:30 AM | 10:30 AM | Prof Dev | ellmer; GAM (generalized additive models) |
+04/10/2026 | 10:30 AM | 11:45 AM | Job Mngt | updating worklog; UAIR homepage survey; emails; reviewing ARCH | 
+04/10/2026 | 11:45 AM | 12:30 PM | Explore Completion Predictors | Column selection report | zero and low variance columns in course database 
+04/10/2026 | 12:30 PM | 1:00 PM | Break ||
+04/10/2026 | 1:00 PM | 2:30 PM | Job Mngt | internal networking; reviewing Qualtrics memo |
+04/10/2026 | 2:30 PM | 3:00 PM | Explore Completion Predictors | Column selection report | zero and low variance columns in course database 
+04/10/2026 | 3:00 PM | 5:00 PM | Break || Taxes; financial planning	
+04/11/2026 | 7:45 AM | 11:00 AM | Explore Completion Predictors | Column selection report | zero and low variance columns in course database; new query

@@ -12,9 +12,15 @@ DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
 03/26/2026 | 4:30 PM | 4:45 PM | Fitness Challenge | Walking | Rec center warm-up 
 03/27/2026 | 6:00 PM | 6:45 PM | Fitness Challenge | Picnic; Walking | 30min walk at park
 03/28/2026 | 11:00 AM | 11:45 AM | Fitness Challenge | Yard Work | Unloading mulch
-03/28/2026 |  2:30 PM | 5:30 PM | Fitness Challenge | Yard Work | Unloading and distributing mulch
- 	
-
-
- 
-  
+03/28/2026 |  2:30 PM | 5:30 PM | Fitness Challenge | Yard Work | Unloading and distributing mulch 
+03/30/2026 | 3:30 PM | 3:45 PM | Fitness Challenge | Yard Work | Mulch assist
+04/02/2026 | 5:30 PM | 5:45 PM | Fitness Challenge | Walking | Rec center warm-up
+04/03/2026 | 7:30 PM | 8:00 PM | Fitness Challenge | Walking | With Scarlett (to/from her work) 
+04/04/2026 | 7:30 PM | 8:45 PM | Fitness Challenge | Walking | With Scarlett (from work, around the neighborhood, back to car
+04/05/2026 | 8:00 PM | 8:45 PM | Fitness Challenge | Walking | House to apartment  
+04/07/2026 | 1:15 PM | 1:30 PM | Fitness Challenge | Walking | from house 
+04/07/2026 | 5:45 PM | 6:00 PM | Fitness Challenge | Walking | Rec center warm-up  
+04/09/2026 | 4:30 PM | 4:45 PM | Fitness Challenge | Walking | Rec center warm-up
+04/09/2026 | 6:30 PM | 6:45 PM | Fitness Challenge | Yard Work | Around house 
+04/10/2026 | 8:00 PM | 8:45 PM | Fitness Challenge | Walking | Around neighborhood
+04/11/2026 | 4:00 PM | 8:00 PM | Fitness Challenge | Yard work off and on; recording 120min
