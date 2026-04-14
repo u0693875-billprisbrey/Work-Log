@@ -1,3 +1,20 @@
 DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
 04/13/2026 | 8:00 AM  | 8:30 AM | Job Mngt | Daily planning; emails; re-boot |	
+04/13/2026 | 8:30 AM | 8:45 AM | Explore Completion Predictors | re-starting failed query | possibly due to an overnight weekend update to the database
+04/13/2026 | 8:45 AM | 10:15 AM | Job Mngt | Opening all projects on old laptop and verifying on new laptop | 
+04/13/2026 | 10:15 AM | 10:30 AM | Break || 
+04/13/2026 | 10:30 AM | 11:45 AM | Job Mngt | Opening all projects on old laptop and verifying on new laptop | The turnover and headcount apps need update SQL, but the "individual journey" one at least still worked on my old laptop
+04/13/2026 | 11:45 AM | 1:00 PM | Break ||
+04/13/2026 |  1:00 PM | 3:00 PM | Job Mngt | Weekly log; Jira | 
+04/13/2026 | 3:00 PM | 3:15 PM | Break ||	
+04/13/2026 | 3:15 PM | 5:15 PM | Student Course Feedback | Reviewing earlier work; writing summary outline | 
+04/14/2026 | 7:45 AM | 9:00 AM | Explore Completion Predictors | putting query into annual chunks | Failed after midnight after 15 hrs !
+04/14/2026 | 9:00 AM | 9:15 AM | Break ||
+04/14/2026 | 9:15 PM | 1:00 PM | Student Course Feedback | Writing status document | 
+04/14/2026 | 1:00 PM | 2:15 PM | Break ||
+04/14/2026 | 2:15 PM | 3:30 PM | Student Course Feedback | Tweaking status document and sending | 
+04/14/2026 | 3:30 PM | 3:45 PM | Break ||
+04/14/2026 | 3:45 PM | 5:15 PM | Job Mngt | Resume and career path 
+
+
 
