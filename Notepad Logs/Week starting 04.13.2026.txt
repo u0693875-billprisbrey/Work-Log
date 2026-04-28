@@ -10,11 +10,37 @@ DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
 04/13/2026 | 3:15 PM | 5:15 PM | Student Course Feedback | Reviewing earlier work; writing summary outline | 
 04/14/2026 | 7:45 AM | 9:00 AM | Explore Completion Predictors | putting query into annual chunks | Failed after midnight after 15 hrs !
 04/14/2026 | 9:00 AM | 9:15 AM | Break ||
-04/14/2026 | 9:15 PM | 1:00 PM | Student Course Feedback | Writing status document | 
+04/14/2026 | 9:15 AM | 1:00 PM | Student Course Feedback | Writing status document | 
 04/14/2026 | 1:00 PM | 2:15 PM | Break ||
 04/14/2026 | 2:15 PM | 3:30 PM | Student Course Feedback | Tweaking status document and sending | 
 04/14/2026 | 3:30 PM | 3:45 PM | Break ||
-04/14/2026 | 3:45 PM | 5:15 PM | Job Mngt | Resume and career path 
-
-
-
+04/14/2026 | 3:45 PM | 5:15 PM | Job Mngt | Resume and career advancement plan |  
+04/15/2026 | 7:15 AM | 8:30 AM | Job Mngt | career advancement plan | HTML draft finished and sent
+04/15/2026 | 8:30 AM | 8:45 AM | Break || 
+04/15/2026 | 8:45 AM | 9:30 AM | Job Mngt | career advancement plan | rendering in other formats (tables are not compatible!) and pushing to Git 
+04/15/2026 | 9:30 AM | 9:45 AM | Explore Completion Predictors | investigating by-term query | 
+04/15/2026 | 9:45 AM | 10:15 AM | Break || 
+04/15/2026 | 10:15 AM | 10:30 AM | Job Mngt | Computer re-boot |
+04/15/2026 | 10:30 AM | 12:15 PM | Explore Completion Predictors | Comparing COURSE and DEGREE data | 
+04/15/2026 | 12:15 PM | 12:45 PM | Break ||
+04/15/2026 | 12:45 PM | 1:00 PM | Explore Completion Predictors | Comparing COURSE and DEGREE data | 
+04/15/2026 | 1:00 PM | 1:45 PM | Job Mngt | UAIR Learning Hour |
+04/15/2026 | 1:45 PM | 2:30 PM | Job Mngt | Internal networking |
+04/15/2026 | 2:30 PM | 3:00 PM | Explore Completion Predictors | Comparing COURSE and DEGREE data |
+04/15/2026 | 3:00 PM | 3:15 PM | Break ||
+04/15/2026 | 3:15 PM | 4:45 PM | Explore Completion Predictors | Comparing COURSE and DEGREE data |
+04/16/2026 | 7:30 AM | 8:00 AM | Job Mngt | Computer update; daily log |
+04/16/2026 | 8:00 AM | 9:45 AM | Explore Completion Predictors | Comparing COURSE and DEGREE data |
+04/16/2026 | 9:45 AM | 10:15 AM | Break ||
+04/16/2026 | 10:15 AM | 11:15 AM | Explore Completion Predictors | Comparing COURSE and DEGREE data; reviewing old projects |
+04/16/2026 | 11:15 AM | 12:45 PM | Job Mngt | Internal Networking | create agents on codex and chatGPT
+04/16/2026 | 12:45 PM | 1:15 PM | Break ||
+04/16/2026 | 1:15 PM | 4:00 PM | Explore Completion Predictors | Comparing COURSE and DEGREE data; reviewing old projects |
+04/16/2026 | 4:00 PM | 4:30 PM | Job Mngt | Luis 1x1 |
+04/17/2026 | 8:30 AM | 9:00 AM | Forecast Completion Rates | Reviewing methodologies; developing plan | 
+04/17/2026 | 9:00 AM | 9:30 AM | Job Mngt | Daily log; daily planning; commit to git; computer re-boot | 
+04/17/2026 | 9:30 AM | 10:00 AM | Forecast Completion Rates | Writing plan | 
+04/17/2026 | 10:00 AM | 10:45 AM | Job Mngt | UAIR Meeting | Student Success (not currently enrolled dashboard)  
+04/17/2026 | 10:45 AM | 2:15 PM | Prof Dev | ellmer | agentic AI 
+04/17/2026 | 2:15 PM  | 2:45 PM | Break ||
+04/17/2026 | 2:45 PM | 5:15 PM | Forecast Completion Rates | Creating GitHub project, commissioning agent to simulate data |

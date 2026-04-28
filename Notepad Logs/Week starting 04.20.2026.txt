@@ -1,0 +1,41 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+04/20/2026 | 8:15 AM  | 12:00 PM | Forecast Completion Rates | simulated data | Script to simulate data inspected; adjusted to accommodate NA values; Simulated data compared to FTF Demo data	
+04/20/2026 | 12:00 PM  | 1:15 PM | Break || 
+04/20/2026 | 1:15 PM  | 3:30 PM |  Forecast Completion Rates | investigate FTF data | 	
+04/20/2026 | 3:30 PM  | 4:30 PM | Job Mngt | Tech support ticket | Running Zoom and R simultaneously; updating graphics driver
+04/20/2026 | 4:30 PM  | 5:00 PM |  Forecast Completion Rates | developing sampling query | 
+04/20/2026 | 5:00 PM  | 6:30 PM | Break ||
+04/20/2026 | 6:30 PM  | 9:30 PM |  Forecast Completion Rates | Comparing 1000 emplid sample across three databases | 
+04/21/2026 | 7:45 AM  | 8:15 AM | Forecast Completion Rates | Comparing emplid sample across databases | 
+04/21/2026 | 8:15 AM | 9:15 AM | Break ||
+04/21/2026 | 9:15 AM |  12:00 PM | Forecast Completion Rates | Comparing emplid sample across databases; isolation forest agent | 
+04/21/2026 | 12:00 PM | 12:30 PM | Break ||
+04/21/2026 | 12:30 PM | 3:15 PM | Forecast Completion Rates | Reviewing agent output; Walking through data meeting; inspecting data | 
+04/21/2026 | 3:15 PM | 3:45 PM | Break ||
+04/21/2026 | 3:45 PM | 5:15 PM | Forecast Completion Rates | Modifying agent output; inspecting outliers |
+04/22/2026 | 9:00 AM | 10:15 AM | Break || Late start
+04/22/2026 | 10:15 AM | 11:00 AM | Prof Dev | Survival Analysis   | Medium article
+04/22/2026 | 11:00 AM | 12:00 PM | Forecast Completion Rates | IR Office Hours | learning about IPEDS reporting and asking questions
+04/22/2026 | 12:00 PM | 1:00 PM | Break ||
+04/22/2026 |  1:00 PM | 2:00 PM | Job Mngt | UAIR Learning Hour | 
+04/22/2026 | 2:00 PM | 4:00 PM | Forecast Completion Rates | Writing Forecast Approaches Agent | getting data in the right format was a trick
+04/22/2026 | 4:00 PM | 7:30 PM | Break ||
+04/22/2026 | 7:30 PM | 9:30 PM | Forecast Completion Rates | Writing Forecast Approaches Agent; reviewing output; studying causal survival analysis | https://github.com/eleanormurray/CausalSurvivalAnalysisWorkshop 
+04/23/2026 | 9:00 AM | 9:15 AM | Job Mngt | Daily planning |
+04/23/2026 | 9:15 AM | 10:15 AM | Forecast Completion Rates | Review forecast agent output |
+04/23/2026 | 10:15 AM | 10:30 AM | Break ||
+04/23/2026 | 10:30 AM | 11:00 AM | Job Mngt | Updating log |
+04/23/2026 | 11:00 AM | 11:30 AM | Forecast Completion Rates | FTF Demo Outlier Report | 
+04/23/2026 | 11:30 AM | 11:45 AM | Job Mngt | Forced re-boot | changing host name 
+04/23/2026 | 11:45 AM | 1:30 PM | Forecast Completion Rates | FTF Demo Outlier Report | 
+04/23/2026 | 1:30 PM | 2:30 PM | Break ||
+04/23/2026 | 2:30 PM | 4:45 PM| Forecast Completion Rates | FTF Demo Outlier Report | 
+04/24/2026 | 8:30 AM  | 9:30 AM | Job Mngt | Emails; review; planning | 
+04/24/2026 | 9:30 AM | 9:45 AM | Break ||
+04/24/2026 | 9:45 AM  | 10:15 AM | Travel ||
+04/24/2026 | 10:15 AM | 11:15 AM | Job Mngt | UAIR Meeting | UAIR Connect
+04/24/2026 | 11:15 AM | 11:45 AM | Travel || 
+04/24/2026 | 11:45 AM | 12:30 PM | Break ||
+04/24/2026 | 12:30 PM | 3:30 PM | Forecast Completion Rates | Reviewing expectations with Luis; FTF Demo Outlier Report |  
+04/24/2026 | 3:30 PM | 4:00 PM | Job Mngt | Support Ticket | Accessing J drive
+04/24/2026 | 4:00 PM | 6:00 PM | Forecast Completion Rates | FTF Demo Outlier Report | sent 
