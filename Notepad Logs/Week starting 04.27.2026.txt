@@ -3,12 +3,30 @@ DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
 04/27/2026 | 10:00 AM | 12:30 PM | Forecast Completion Rates | Baseline forecast | setting up agent 
 04/27/2026 | 12:30 PM | 1:30 PM | Break || 
 04/27/2026 |  1:30 PM | 3:30 PM | Forecast Completion Rates | Baseline forecast | reviewing agent output
-04/27/2026 | 3:30 PM | 4:15 PM | Forecast Completion Rates | Meeting on IR definitions and FTF Demo 
-04/27/2026 | 4:15 PM | 4:30 PM | Forecast Completion Rates | Email on exceptions explanations 
+04/27/2026 | 3:30 PM | 4:15 PM | Forecast Completion Rates | Meeting on IR definitions and FTF Demo | 
+04/27/2026 | 4:15 PM | 4:30 PM | Forecast Completion Rates | Email on exceptions explanations | 
 04/27/2026 | 4:30 PM | 7:00 PM | Break ||
-04/27/2026 | 7:00 PM | 8:00 PM | Forecast Completion Rates | Sandbox approach to forecast to double-check agent output
-
+04/27/2026 | 7:00 PM | 8:00 PM | Forecast Completion Rates | Sandbox approach to forecast to double-check agent output |
 04/28/2026 | 8:15 AM  | 11:00 AM | Job Mngt | Tech support remote memory check;  weekly logs | 
 04/28/2026 | 11:00 AM | 11:30 AM | Break ||
 04/28/2026 | 11:30 AM | 12:00 PM | Job Mngt | Weekly log report sent; committing to Git |
-04/28/2026 | 12:00 PM | 12:30 PM | Forecast Completion Rates | Sandbox double-checking exceptions   
+04/28/2026 | 12:00 PM | 1:00 PM | Forecast Completion Rates | Sandbox incorporating exceptions |
+04/28/2026 | 1:00 PM | 2:15 PM | Break ||
+04/28/2026 | 2:15 PM | 5:15 PM | Forecast Completion Rates | Comparing and plotting different aggregations (gender, cohort, and major) |  
+04/29/2026 | 9:15 AM | 9:30 AM | Forecast Completion Rates | Committing to Git; reviewing yesterday's work; planning the day |	
+04/29/2026 | 9:30 AM | 10:15 AM | Break ||
+04/29/2026 | 10:15 AM | 10:30 AM | Job Mngt | Computer re-boot | Tableau update notice
+04/29/2026 | 10:30 AM | 12:45 PM | Forecast Completion Rates | Attending IR meeting; Examining completion rate trends; quadratic fit and simple extrapolation | 
+04/29/2026 | 12:45 PM | 1:00 PM | Job Mngt | Computer re-boot | RStudio error ("Error: Unable to establish connection with R session when executing 'console_input'")
+04/29/2026 | 1:00 PM | 2:00 PM | Job Mngt | UAIR learning hour | Grad school attendance 
+04/29/2026 | 2:00 PM | 2:45 PM | Break || 
+04/29/2026 | 2:45 PM | 4:45 PM | Forecast Completion Rates | Extrapolation graphics; duplicating official numbers | 
+04/30/2026 | 9:00 AM  | 11:30 AM | Forecast Completion Rates | Duplicating official numbers; clarifying questions with Abby |
+04/30/2026 | 11:30 AM | 12:30 PM | Break ||
+04/30/2026 | 12:30 PM  | 4:45 PM | Forecast Completion Rates | Extrapolating with exclusions | 
+05/01/2026 | 8:30 AM | 12:00 PM | Forecast Completion Rates | Extrapolating with exclusions sandbox |
+05/01/2026 | 12:00 PM | 2:30 PM | Break ||
+05/01/2026 | 2:30 PM | 5:00 PM | Forecast Completion Rates | Extrapolating with exclusions sandbox |
+05/01/2026 | 5:00 PM | 8:00 PM | Break ||
+05/02/2026 | 1:00 PM | 5:00 PM | Forecast Completion Rates | managing exclusions; graphics; quadratic fits | 
+

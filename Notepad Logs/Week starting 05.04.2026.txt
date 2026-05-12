@@ -1,0 +1,37 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+05/04/2026 |  9:00 AM | 10:00 AM | Break || Late Start
+05/04/2026 |  10:00 AM | 12:30 PM | Forecast Completion Rates | simple extrapolation |
+05/04/2026 |  12:30 PM | 1:00 PM | Break ||
+05/04/2026 |  1:00 PM | 3:30 PM | Forecast Completion Rates | exclusions adjustments; reconciling different data sources |
+05/04/2026 |  3:30 PM | 4:00 PM | Break ||
+05/04/2026 |  4:00 PM | 5:30 PM | Forecast Completion Rates | extrapolation with exclusions adjustment |
+05/04/2026 |  5:30 PM | 7:00 PM | Break ||
+05/04/2026 |  7:00 PM | 9:30 PM | Forecast Completion Rates | quadratic fit; exclusions adjustments |
+05/05/2026 |  8:00 AM | 10:00 AM | Forecast Completion Rates | extrapolation; exclusions; alignment with IPEDS |
+05/05/2026 |  10:00 AM | 10:15 AM | Break ||
+05/05/2026 |  10:15 AM | 12:30 PM | Forecast Completion Rates | extrapolation; exclusions; alignment with IPEDS |
+05/05/2026 |  12:30 PM | 1:30 PM | Break || 
+05/05/2026 |   1:30 PM | 3:00 PM | Forecast Completion Rates | extrapolation; exclusions; alignment with IPEDS |
+05/05/2026 |  3:00 PM | 3:30 PM | Break || 
+05/05/2026 |   3:30 PM | 4:45 PM | Forecast Completion Rates | extrapolation; exclusions; alignment with IPEDS |
+05/06/2026 | 9:00 AM | 10:00 AM | Break || Late Start 
+05/06/2026 | 10:00 AM | 12:30 PM | Forecast Completion Rates | extrapolation; exclusions; IPEDS reporting history |
+05/06/2026 | 12:30 PM | 1:00 PM | Break || 
+05/06/2026 | 1:00 PM | 2:00 PM | Job Mngt | UAIR meetings | UAIR learning hour
+05/06/2026 | 2:00 PM | 2:30 PM | Break ||
+05/06/2026 | 2:30 PM | 6:00 PM | Forecast Completion Rates | extrapolation; exclusions; IPEDS reporting history |
+05/07/2026 | 8:30 AM | 10:30 AM | Forecast Completion Rates | extrapolation; exclusions; IPEDS reporting history |
+05/07/2026 | 10:30 AM | 10:45 AM | Break ||
+05/07/2026 | 10:45 AM | 12:45 PM | Forecast Completion Rates | simple extrapolation; discussing with Luis |
+05/07/2026 | 12:45 PM | 1:30 PM | Break ||
+05/07/2026 |  1:30 PM | 4:45 PM | Forecast Completion Rates | concluding simple extrapolation; will work with raw data and make exclusions adjustment later; working on report that compares raw and IPEDS data |
+05/08/2026 | 8:30 AM | 10:30 AM | Forecast Completion Rates | IPEDS and raw comparison report |
+05/08/2026 | 10:30 AM | 10:45 AM | Break || 
+05/08/2026 | 10:45 AM | 1:00 PM | Forecast Completion Rates | IPEDS and raw comparison report |
+05/08/2026 | 1:00 PM | 1:30 PM | Travel || Returning old laptop to Hunter at 102 Tower
+05/08/2026 | 1:30 PM | 1:45 PM | Job Mngt || Returning old laptop to Hunter at 102 Tower
+05/08/2026 | 1:45 PM | 5:00 PM | Break || 
+05/09/2026 | 6:00 AM | 10:00 AM | Forecast Completion Rates | Ellmer agents develop cohort-level and individual-level forecast code |
+
+
+
