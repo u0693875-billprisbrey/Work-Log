@@ -6,8 +6,33 @@ DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
 05/11/2026 | 1:15 PM | 3:00 PM | Forecast Completion Rates | "walk backwards" forecast |
 05/11/2026 | 3:00 PM | 4:00 PM | Break || 
 05/11/2026 | 4:00 PM | 5:45 PM | Forecast Completion Rates | "walk backwards" forecast using time series sampling |
-05/12/2026 | 8:30 AM | 10:30 AM | Job Mngt | Jira; weekly logs 
+05/12/2026 | 8:30 AM | 10:30 AM | Job Mngt | Jira; weekly logs | 
 05/12/2026 | 10:30 AM | 11:00 AM | Break || 
-05/12/2026 | 11:00 AM | 12:45 PM | Job Mngt | Jira; weekly logs 
+05/12/2026 | 11:00 AM | 12:45 PM | Job Mngt | Jira; weekly logs | 
 05/12/2026 | 12:45 PM | 1:30 PM | Break ||
 05/12/2026 |  1:30 PM | 3:45 PM | Forecast Completion Rates | "walk backwards" forecast report | 
+05/12/2026 | 3:45 PM | 4:00 PM | Break || 
+05/12/2026 | 4:00 PM | 5:00 PM | Sick || Child's dr's appointment	
+05/13/2026 | 8:30 AM | 9:15 AM | Forecast Completion Rates | "walk backwards" forecast report |
+05/13/2026 | 9:15 AM | 10:00 AM | Travel | UAIR Meeting |
+05/13/2026 | 10:00 AM | 12:15 PM | Job Mngt | UAIR Meeting | All-staff 
+05/13/2026 | 12:15 PM | 12:45 PM | Travel | UAIR Meeting | 
+05/13/2026 | 12:45 PM | 1:45 PM | Break ||
+05/13/2026 | 1:45 PM | 5:45 PM | Forecast Completion Rates | "walk backwards" forecast report |
+05/14/2026 | 8:30 AM | 10:00 AM | Forecast Completion Rates | "walk backwards" forecast report | adding cumulative graphic; coding different "year to graduate" events 
+05/14/2026 | 10:00 AM | 10:15 AM | Break ||
+05/14/2026 | 10:15 AM | 12:30 PM | Forecast Completion Rates | "walk backwards" forecast report | various spot predictions at various horizons
+05/14/2026 | 12:30 PM | 1:30 PM | Break || 
+05/14/2026 |  1:30 PM | 4:30 PM  | Forecast Completion Rates | "walk backwards" forecast report | various spot predictions at various horizons
+05/14/2026 | 4:30 PM | 8:00 PM | Break ||  
+05/14/2026 | 8:00 PM | 9:30 PM | Forecast Completion Rates | Ellmer agent converts code to a function | 
+05/15/2026 | 8:30 AM | 10:00 AM | Forecast Completion Rates | Enacting agent code |
+05/15/2026 | 10:00 AM | 10:45 AM | Job Mngt | UAIR Meeting | Student Success
+05/15/2026 | 10:45 AM | 12:30 PM | Forecast Completion Rates | Reviewing agent code |
+05/15/2026 | 12:30 PM | 1:15 PM | Break ||
+05/15/2026 | 1:15 PM | 4:00 PM | Forecast Completion Rates | De-bugging and iterating on agent code | Cumulative prediction looks good
+05/15/2026 | 4:00 PM | 4:30 PM | Break ||
+05/15/2026 | 4:30 PM | 5:15 PM | Forecast Completion Rates | De-bugging and iterating on agent code | Bias adjustment looks good
+
+
+
