@@ -1,0 +1,41 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+06/01/2026 | 8:15 AM | 10:15 AM | Forecast Completion Rates || 
+06/01/2026 | 10:15 AM | 10:30 AM | Break ||  
+06/01/2026 | 10:30 AM | 12:30 PM | Forecast Completion Rates ||
+06/01/2026 | 12:30 PM | 1:30 PM | Break ||
+06/01/2026 | 1:30 PM | 3:30 PM | Forecast Completion Rates ||
+06/01/2026 | 3:30 PM | 4:00 PM | Break ||
+06/01/2026 | 4:00 PM | 5:15 PM | Forecast Completion Rates ||
+
+06/02/2026 | 8:15 AM | 10:15 AM | Forecast Completion Rates ||
+06/02/2026 | 10:15 AM | 10:30 AM | Break ||  
+06/02/2026 | 10:30 AM | 12:30 PM | Forecast Completion Rates ||
+06/02/2026 | 12:30 PM | 1:00 PM | Break ||  
+06/02/2026 | 1:00 PM | 2:00 PM | Forecast Completion Rates ||
+06/02/2026 | 2:00 PM | 3:30 PM | Break ||
+06/02/2026 | 3:30 PM | 5:15 PM | Forecast Completion Rates ||
+
+06/03/2026 | 8:15 AM | 10:45 AM | Forecast Completion Rates ||
+06/03/2026 | 10:45 AM | 11:00 AM | Break ||  
+06/03/2026 | 11:00 AM | 12:00 PM | Job Mngt | UAIR Meetings | IR Office Hours 
+06/03/2026 | 12:00 PM | 1:00 PM | Break || 
+06/03/2026 | 1:00 PM | 2:00 PM | Job Mngt | UAIR Meetings | Learning Hour
+06/03/2026 | 2:00 PM | 2:45 PM | Job Mngt | Internal networking |
+06/03/2026 | 2:45 PM | 5:15 PM | Forecast Completion Rates || 
+
+06/04/2026 | 8:15 AM | 10:00 AM | Forecast Completion Rates ||
+06/04/2026 | 10:00 AM | 12:00 PM | Sick | Dr's Appt |  
+06/04/2026 | 12:00 PM | 1:00 PM | Break || 
+06/04/2026 | 1:00 PM | 3:15 PM | Forecast Completion Rates ||
+06/04/2026 | 3:15 PM | 3:45 PM | Break ||  
+06/04/2026 | 3:45 PM | 5:30 PM | Forecast Completion Rates || 
+
+06/05/2026 | 8:15 AM | 10:15 AM | Forecast Completion Rates ||
+06/05/2026 | 10:15 AM | 10:30 AM | Break ||  
+06/05/2026 | 10:30 AM | 12:30 PM | Forecast Completion Rates ||
+06/05/2026 | 12:30 PM | 1:30 PM | Break ||
+06/05/2026 | 1:30 PM | 3:30 PM | Forecast Completion Rates ||
+06/05/2026 | 3:30 PM | 4:00 PM | Break ||
+06/05/2026 | 4:00 PM | 5:15 PM | Forecast Completion Rates ||
+
+
