@@ -1,0 +1,42 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+08/03/2026 | 8:45 AM | 10:30 AM | Forecast Completion Rates | Iterating on Forecast Drivers report | Adjusting graphics
+08/03/2026 | 10:30 AM | 11:00 AM | Break ||
+08/03/2026 | 11:00 AM | 12:45 PM | Forecast Completion Rates | Iterating on Forecast Drivers report | adding text
+08/03/2026 | 12:45 PM | 1:30 PM | Break ||
+08/03/2026 | 1:30 PM | 4:45 PM | Forecast Completion Rates | Iterating on Forecast Drivers report | adjusting text/graphics
+
+08/04/2026 | 9:15 AM | 12:15 PM | Forecast Completion Rates |  Adding Model Diagnosis section to Forecast Drivers |
+08/04/2026 | 12:15 PM | 1:00 PM | Break ||
+08/04/2026 | 1:00 PM | 2:00 PM | Forecast Completion Rates | Updating Model Diagnosis report |
+08/04/2026 | 2:00 PM | 5:00 PM | Vacation ||
+
+08/05/2026 | 9:15 AM | 10:30 AM | Job Mngt | Daily planning; updating log; updating Jira | 
+08/05/2026 | 10:30 AM | 11:00 AM | Forecast Completion Rates | Writing 'changes to model' report | 
+08/05/2026 | 11:00 AM | 12:00 PM | Job Mngt | Institutional Research meeting | discovered 27 people missing from my 2019 graduation rate
+08/05/2026 | 12:00 PM | 1:00 PM | Break ||
+08/05/2026 | 1:00 PM | 2:00 PM | Job Mngt | UAIR Meeting | UAIR Learning Hour on new models
+08/05/2026 | 2:00 PM | 5:00 PM | Forecast Completion Rates | Updating text in reports to the 'factor' version; writing kaizen list | 
+
+08/06/2026 | 8:30 AM | 11:45 AM | Forecast Completion Rates | Updating text in reports  | 
+08/06/2026 | 11:45 AM | 12:30 PM | Break ||
+08/06/2026 | 12:30 PM | 2:00 PM | Forecast Completion Rates | Investigating small discrepancy | Looks like the FTF Demo database updated 27 summer graduates (0.6%) after I queried in April   
+08/06/2026 | 2:00 PM | 5:15 PM | Forecast Completion Rates | Final rendering and review of several reports; small percentage discrepancy noted; Jira epic closed. |
+ 
+08/07/2026 | 8:45 AM | 11:00 AM | Job Mngt | Planning  | Probably will look into causal forecasting
+08/07/2026 | 11:00 AM | 11:30 AM | Break ||
+08/07/2026 | 11:30 AM | 2:00 PM | Forecast Drivers | Examining increased risk for elite students |
+08/07/2026 | 2:00 PM | 2:45 PM | Break ||
+08/07/2026 | 2:45 PM | 6:00 PM | Forecast Drivers | Elite students; fixed and in-play variables | 
+
+
+
+
+
+
+
+
+
+
+
+
+

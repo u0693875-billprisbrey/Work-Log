@@ -1,0 +1,32 @@
+DATE       | START    | STOP     | CATEGORY | ACTIVITIES | NOTES
+07/27/2026 | 9:00 AM | 5:00 PM | Vacation || 
+07/28/2026 | 9:15 AM | 9:30 AM | Job Mngt | Daily Planning |
+07/28/2026 | 9:30 AM | 12:00 PM | Forecast Completion Rates | Reviewing work; planning next steps; changing .gitignore and committing to Git   | Git is slow but today is very slow 
+07/28/2026 | 12:00 PM | 1:00 PM | Break ||
+07/28/2026 | 1:00 PM | 3:00 PM | Forecast Completion Rates | Investigating encoding of categorical columns |
+07/28/2026 | 3:00 PM | 3:15 PM | Break ||
+07/28/2026 | 3:15 PM | 5:15 PM | Forecast Completion Rates | Encoding categories as factors and comparing  |
+07/28/2026 | 5:15 PM | 9:45 PM | Break ||
+07/28/2026 | 9:45 PM | 10:30 PM | Forecast Completion Rates | Encoding categories as factors and comparing  |
+07/29/2026 | 9:00 AM | 9:15 AM | Job Mngt | Daily Planning |
+07/29/2026 | 9:15 AM | 12:15 PM | Forecast Completion Rates | Running grids with factors and examining |
+07/29/2026 | 12:15 PM | 1:15 PM | Break ||
+07/29/2026 | 1:15 PM | 3:15 PM | Forecast Completion Rates | Running grids with factors and examining results |
+07/29/2026 | 3:15 PM | 3:30 PM | Break ||
+07/29/2026 | 3:30 PM | 5:15 PM | Forecast Completion Rates | Running grids with factors and examining results; running SHAP grids |
+07/29/2026 | 5:15 PM | 8:30 PM | Break ||
+07/29/2026 | 8:30 PM | 9:45 PM | Forecast Completion Rates | Examining SHAP results | Makes much more sense
+07/30/2026 | 9:00 AM | 9:15 AM | Job Mngt | Daily Planning |
+07/30/2026 | 9:15 AM | 11:30 AM | Forecast Completion Rates | Reviewing SHAP references | Reviewing Molnar, Interpretable ML, Chapters 17 and 18; shapviz vignettes; Viera (https://towardsdatascience.com/you-are-underutilizing-shap-values-understanding-populations-and-events-7f4a45202d5/) 
+07/30/2026 | 11:30 AM | 12:45 PM  | Forecast Completion Rates | Forecast drivers as differences in SHAP values | Struggling with using an old model to predict on a different data set 
+07/30/2026 | 12:45 PM | 1:30 PM | Break ||
+07/30/2026 | 1:30 PM | 3:00 PM  | Forecast Completion Rates | Forecast drivers as SHAP values |
+07/30/2026 | 3:00 PM | 4:30 PM | Break ||
+07/30/2026 | 4:30 PM | 5:15 PM  | Forecast Completion Rates | Forecast drivers as SHAP values |
+07/30/2026 | 5:15 PM | 7:00 PM | Break ||
+07/30/2026 | 7:00 PM | 9:30 PM  | Forecast Completion Rates | Forecast drivers as differences in SHAP values | Visualizations in actual data  
+07/31/2026 | 8:00 AM | 8:45 AM | Forecast Completion Rates | Differences by college calculations |
+07/31/2026 | 8:45 AM | 9:00 AM | Break ||
+07/31/2026 | 9:00 AM | 1:45 PM | Forecast Completion Rates | Differences by college graphic |
+07/31/2026 | 1:45 PM | 3:00 PM | Break ||
+07/31/2026 | 3:00 PM | 5:15 PM | Forecast Completion Rates | Identifying accurate and inaccurate populations | 
